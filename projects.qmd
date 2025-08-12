@@ -1,0 +1,23 @@
+---
+title: "Projects"
+---
+
+# Selected Projects
+
+## Wildlife Conservation in Côte d’Ivoire
+Developed advanced neural network models to classify animal species from camera trap images, aiding scientists in tracking wildlife populations.
+
+## Crop Disease Detection in Uganda
+Built a convolutional neural network (CNN) to classify crop diseases into five categories, improving accuracy using transfer learning and callbacks.
+
+## Traffic Monitoring in Bangladesh
+Extended object detection models to process real-time video feeds, detecting vehicles and pedestrians for urban traffic analysis.
+
+## GAN-Based Medical Imaging in Spain
+Designed GANs to generate synthetic medical images for training augmentation; deployed with Streamlit.
+
+## Meme Generator for Social Media
+Used stable diffusion to create an interactive meme generation app for marketing campaigns.
+
+## Volatility Forecasting in India
+Implemented a GARCH time-series model to forecast stock volatility; integrated with APIs for automated prediction delivery.

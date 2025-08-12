@@ -1,0 +1,34 @@
+---
+title: "About"
+---
+
+Hi, I am Ayush Kumar
+
+I am a **Data Science professional** with a passion for building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. My journey into data science began with a strong foundation in **Computer Science and Engineering** (B.Tech., First Division with Honours, CGPA 9.021) at Echelon Institute of Technology, and has evolved into a specialized focus through my **M.Tech. in Data Science** at the **Defence Institute of Advanced Technology, Pune** (CGPA 9.0).  
+
+Over the years, I have developed expertise across the **machine learning ecosystem**, spanning:  
+- **Core Concepts**: Supervised & unsupervised learning, deep learning architectures, NLP, computer vision, time-series forecasting, and statistical modelling.  
+- **Specialized Areas**: Generative AI, federated learning, physics-informed models, vector similarity search, A/B testing, and feature engineering.  
+- **Practical Skills**: Python, SQL, C, Java, TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Plotly, Tableau, Streamlit, Docker, MySQL, MongoDB, and API integration.  
+
+## Research & Academic Contributions
+My research is driven by the belief that data science should not only be cutting-edge but also grounded in real-world constraints. For my master’s thesis, I developed a **Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions**, combining **deep learning** with **physical modelling** to address challenges in marine imaging. I have also published in peer-reviewed venues, including the **National Conference on Communications (NCC 2025)**, where I presented work on the **performance of state-of-the-art underwater image enhancement models**.  
+
+## Industry Experience
+- **ABB Corporate Research Center (Jan–June 2025)** – Designed frameworks for **efficient machine learning in resource-constrained environments**, enhanced **collaborative learning in federated settings**, and optimized models for **data privacy and computational efficiency**.  
+- **FrugalX (Jan–May 2023)** – Built an **image similarity search framework** using artificial neural networks and **Milvus**, integrated **MySQL databases** for fast retrieval, and optimized large-scale image search systems for commercial use.  
+
+## Projects & Applications
+- **Wildlife Conservation in Côte d’Ivoire** – Classified animal species from camera trap images.  
+- **Crop Disease Detection in Uganda** – CNN-based crop disease classification using transfer learning.  
+- **Medical Data Generation in Spain** – GANs to synthesize medical images (X-rays, MRIs).  
+- **Social Media Meme Generator** – Stable diffusion model deployed on Streamlit.  
+- **Volatility Forecasting in India** – GARCH model for asset volatility prediction.  
+- **Earthquake Damage Prediction in Nepal** – Logistic regression & decision trees for risk assessment.  
+
+## Achievements
+- **Qualified GATE 2023 (CS)** with a score of 513.  
+- Recipient of the **Director’s Award** at Echelon Institute of Technology.  
+
+**Let’s connect to explore how data and AI can create meaningful change.**  
+📧 [Email](mailto:akcoolkmr@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-4234b8155/) | 💻 [GitHub](https://github.com/Harper2123)
