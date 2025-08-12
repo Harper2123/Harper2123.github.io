@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed advanced neural network models to classify animal species from camera trap images, aiding scientists in tracking wildlife populations.\n\n\n\nBuilt a convolutional neural network (CNN) to classify crop diseases into five categories, improving accuracy using transfer learning and callbacks.\n\n\n\nExtended object detection models to process real-time video feeds, detecting vehicles and pedestrians for urban traffic analysis.\n\n\n\nDesigned GANs to generate synthetic medical images for training augmentation; deployed with Streamlit.\n\n\n\nUsed stable diffusion to create an interactive meme generation app for marketing campaigns.\n\n\n\nImplemented a GARCH time-series model to forecast stock volatility; integrated with APIs for automated prediction delivery."
+  },
+  {
+    "objectID": "projects.html#wildlife-conservation-in-côte-divoire",
+    "href": "projects.html#wildlife-conservation-in-côte-divoire",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed advanced neural network models to classify animal species from camera trap images, aiding scientists in tracking wildlife populations."
+  },
+  {
+    "objectID": "projects.html#crop-disease-detection-in-uganda",
+    "href": "projects.html#crop-disease-detection-in-uganda",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a convolutional neural network (CNN) to classify crop diseases into five categories, improving accuracy using transfer learning and callbacks."
+  },
+  {
+    "objectID": "projects.html#traffic-monitoring-in-bangladesh",
+    "href": "projects.html#traffic-monitoring-in-bangladesh",
+    "title": "Projects",
+    "section": "",
+    "text": "Extended object detection models to process real-time video feeds, detecting vehicles and pedestrians for urban traffic analysis."
+  },
+  {
+    "objectID": "projects.html#gan-based-medical-imaging-in-spain",
+    "href": "projects.html#gan-based-medical-imaging-in-spain",
+    "title": "Projects",
+    "section": "",
+    "text": "Designed GANs to generate synthetic medical images for training augmentation; deployed with Streamlit."
+  },
+  {
+    "objectID": "projects.html#meme-generator-for-social-media",
+    "href": "projects.html#meme-generator-for-social-media",
+    "title": "Projects",
+    "section": "",
+    "text": "Used stable diffusion to create an interactive meme generation app for marketing campaigns."
+  },
+  {
+    "objectID": "projects.html#volatility-forecasting-in-india",
+    "href": "projects.html#volatility-forecasting-in-india",
+    "title": "Projects",
+    "section": "",
+    "text": "Implemented a GARCH time-series model to forecast stock volatility; integrated with APIs for automated prediction delivery."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I am Ayush Kumar\nI am a Data Science professional with a passion for building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. My journey into data science began with a strong foundation in Computer Science and Engineering (B.Tech., First Division with Honours, CGPA 9.021) at Echelon Institute of Technology, and has evolved into a specialized focus through my M.Tech. in Data Science at the Defence Institute of Advanced Technology, Pune (CGPA 9.0).\nOver the years, I have developed expertise across the machine learning ecosystem, spanning:\n- Core Concepts: Supervised & unsupervised learning, deep learning architectures, NLP, computer vision, time-series forecasting, and statistical modelling.\n- Specialized Areas: Generative AI, federated learning, physics-informed models, vector similarity search, A/B testing, and feature engineering.\n- Practical Skills: Python, SQL, C, Java, TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Plotly, Tableau, Streamlit, Docker, MySQL, MongoDB, and API integration."
+  },
+  {
+    "objectID": "about.html#research-academic-contributions",
+    "href": "about.html#research-academic-contributions",
+    "title": "About",
+    "section": "Research & Academic Contributions",
+    "text": "Research & Academic Contributions\nMy research is driven by the belief that data science should not only be cutting-edge but also grounded in real-world constraints. For my master’s thesis, I developed a Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions, combining deep learning with physical modelling to address challenges in marine imaging. I have also published in peer-reviewed venues, including the National Conference on Communications (NCC 2025), where I presented work on the performance of state-of-the-art underwater image enhancement models."
+  },
+  {
+    "objectID": "about.html#industry-experience",
+    "href": "about.html#industry-experience",
+    "title": "About",
+    "section": "Industry Experience",
+    "text": "Industry Experience\n\nABB Corporate Research Center (Jan–June 2025) – Designed frameworks for efficient machine learning in resource-constrained environments, enhanced collaborative learning in federated settings, and optimized models for data privacy and computational efficiency.\n\nFrugalX (Jan–May 2023) – Built an image similarity search framework using artificial neural networks and Milvus, integrated MySQL databases for fast retrieval, and optimized large-scale image search systems for commercial use."
+  },
+  {
+    "objectID": "about.html#projects-applications",
+    "href": "about.html#projects-applications",
+    "title": "About",
+    "section": "Projects & Applications",
+    "text": "Projects & Applications\n\nWildlife Conservation in Côte d’Ivoire – Classified animal species from camera trap images.\n\nCrop Disease Detection in Uganda – CNN-based crop disease classification using transfer learning.\n\nMedical Data Generation in Spain – GANs to synthesize medical images (X-rays, MRIs).\n\nSocial Media Meme Generator – Stable diffusion model deployed on Streamlit.\n\nVolatility Forecasting in India – GARCH model for asset volatility prediction.\n\nEarthquake Damage Prediction in Nepal – Logistic regression & decision trees for risk assessment."
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "About",
+    "section": "Achievements",
+    "text": "Achievements\n\nQualified GATE 2023 (CS) with a score of 513.\n\nRecipient of the Director’s Award at Echelon Institute of Technology.\n\nLet’s connect to explore how data and AI can create meaningful change.\n📧 Email | 🔗 LinkedIn | 💻 GitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Ayush Kumar 👋\nI am a Data Science professional passionate about applying machine learning, deep learning, and data analytics to solve real-world problems.\nI hold an M.Tech. in Data Science from the Defence Institute of Advanced Technology, Pune, and a B.Tech. in Computer Science and Engineering from Echelon Institute of Technology.\nOver the years, I have worked on projects across wildlife conservation, healthcare imaging, financial forecasting, federated learning, and generative AI.\nMy approach blends research, engineering, and application, aiming to build scalable, ethical, and impactful AI systems.\n📧 Email: akcoolkmr@gmail.com\n🔗 LinkedIn | GitHub\n\n\n\nProfile Picture"
+  }
+]

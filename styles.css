@@ -1,0 +1,19 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #003366;
+}
+
+.navbar {
+  background-color: #003366;
+}
+
+.navbar a {
+  color: white !important;
+}
+
+a {
+  color: #0066cc;
+}
