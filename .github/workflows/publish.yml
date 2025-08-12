@@ -18,7 +18,7 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: latest
+          version: 1.7.33
 
       - name: Install Pandoc
         uses: pandoc/actions/setup@v1
