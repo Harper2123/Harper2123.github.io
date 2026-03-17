@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I’ve worked on a diverse range of projects spanning computer vision, NLP, time series analysis, and data analytics. Here are my selected projects organized by category:"
+  },
+  {
+    "objectID": "projects.html#computer-vision-image-processing",
+    "href": "projects.html#computer-vision-image-processing",
+    "title": "Projects",
+    "section": "Computer Vision & Image Processing",
+    "text": "Computer Vision & Image Processing\n\n\nWildlife Conservation in Côte d’Ivoire\nDeveloped advanced neural network models to classify animal species from camera trap images, supporting scientists in tracking wildlife populations through an image classification competition.\nCNN Transfer Learning Image Classification\n\n\nCrop Disease Detection in Uganda\nBuilt and trained a convolutional neural network (CNN) to classify crop disease images into five categories; improved model accuracy by leveraging transfer learning with pre-trained models and training optimizations using Callbacks.\nCNN Transfer Learning Keras\n\n\nTraffic Monitoring in Bangladesh\nProcessed real-time traffic video feeds from Dhaka to detect and label objects such as vehicles and pedestrians; extended pre-trained object detection models to handle custom traffic analysis tasks.\nObject Detection Computer Vision Video Processing\n\n\nMedical Data Generation in Spain\nDesigned and trained Generative Adversarial Networks (GANs) to synthesize medical images like X-rays and MRIs; deployed an interactive Streamlit web app and managed version control using Git and GitHub.\nGANs Streamlit Medical Imaging\n\n\nCelebrity Sightings in India\nImplemented face detection and recognition using MTCNN and Inception-ResNet; built a Flask application to perform face recognition on uploaded images, demonstrated on video footage of boxer Mary Kom.\nFace Recognition MTCNN Flask\n\n\nUnderwater Image Enhancement\nDeveloped a Physics-Informed Diffusion-Based Framework for enhancing underwater images in high turbidity conditions, combining deep learning with physical modelling for marine imaging applications.\nDiffusion Models Physics-Informed ML Computer Vision"
+  },
+  {
+    "objectID": "projects.html#nlp-generative-ai",
+    "href": "projects.html#nlp-generative-ai",
+    "title": "Projects",
+    "section": "NLP & Generative AI",
+    "text": "NLP & Generative AI\n\n\nLive Twitter Sentiment Analysis\nDeveloped an interactive Streamlit tool to stream live tweets via Tweepy; implemented NLP sentiment pipelines using TextBlob; produced real-time sentiment dashboards and WordClouds to interpret public opinion trends.\nNLP Tweepy Streamlit TextBlob\n\n\nSocial Media Meme Generator\nApplied stable diffusion models to develop a meme generator for social media campaigns; deployed the solution as an interactive Streamlit application.\nStable Diffusion Generative AI Streamlit"
+  },
+  {
+    "objectID": "projects.html#time-series-finance",
+    "href": "projects.html#time-series-finance",
+    "title": "Projects",
+    "section": "Time Series & Finance",
+    "text": "Time Series & Finance\n\n\nAir Quality in Nairobi\nBuilt an ARMA time-series model to forecast particulate matter levels in Kenya; extracted data from MongoDB using PyMongo and improved prediction accuracy through hyperparameter tuning.\nARMA Time Series MongoDB\n\n\nVolatility Forecasting in India\nDeveloped a GARCH time-series model to predict asset volatility; retrieved stock data via an API, stored it in SQLite, and built a custom API to deliver predictions.\nGARCH Time Series API Development SQLite\n\n\nNBA MVP Predictor\nAutomated web scraping of player, team, and MVP data from Basketball Reference; cleaned and merged historical stats (1991–2022); built predictive models to forecast MVP selections based on key performance metrics.\nWeb Scraping Predictive Modeling Pandas"
+  },
+  {
+    "objectID": "projects.html#data-analytics-visualization",
+    "href": "projects.html#data-analytics-visualization",
+    "title": "Projects",
+    "section": "Data Analytics & Visualization",
+    "text": "Data Analytics & Visualization\n\n\nCustomer Churn Analysis (BCG Forage)\nEngineered a random forest model achieving 50% recall for churn prediction; analyzed client data using Python (Pandas, NumPy); created visual dashboards and authored an executive summary with strategic recommendations.\nRandom Forest Data Visualization Pandas\n\n\nRetail Data Analytics (Quantium Forage)\nAnalyzed transaction datasets to generate customer insights and commercial recommendations; identified benchmark stores for uplift testing on new layouts; delivered strategic reports for the Category Manager.\nData Analysis Business Intelligence SQL\n\n\nCustomer Segmentation in the US\nImplemented k-means clustering to segment US consumers; visualized high-dimensional data using PCA and developed an interactive dashboard with Plotly Dash.\nK-Means PCA Plotly Dash\n\n\nA/B Testing at WorldQuant University\nConducted chi-square tests to evaluate the impact of marketing emails on enrollment; built custom Python ETL classes and deployed an interactive app using a three-tier architecture.\nA/B Testing Chi-Square ETL\n\n\nBusiness Data Visualization (TCS Forage)\nDesigned executive-level data visualizations for Tata Consultancy Services; crafted client-focused questions for senior leadership meetings; translated analytical findings into clear visuals.\nData Visualization Tableau Business Intelligence\n\n\nHousing in Mexico\nAnalyzed a dataset of 21,000 properties to study the influence of property size and location on real estate prices; performed data cleaning, created visualizations, and examined variable correlations.\nEDA Data Cleaning Visualization\n\n\nApartment Sales in Buenos Aires\nDeveloped a linear regression model to predict apartment prices in Argentina; built a data pipeline for imputation and encoding, and enhanced model performance by addressing overfitting.\nLinear Regression Data Pipeline Scikit-learn\n\n\nZomato Restaurant Data Analysis\nProcessed raw restaurant data with Python and Excel; performed SQL-based analysis to identify top-rated venues, compare online vs offline ordering trends, and generate strategic insights for Zomato’s growth.\nSQL Data Analysis Python"
+  },
+  {
+    "objectID": "projects.html#database-engineering",
+    "href": "projects.html#database-engineering",
+    "title": "Projects",
+    "section": "Database & Engineering",
+    "text": "Database & Engineering\n\n\nImage Similarity Search Engine\nBuilt an end-to-end image similarity pipeline with Python, Milvus, and MySQL; extracted features, indexed vectors, and linked Milvus IDs to filenames to deliver fast vector-based search for similar images.\nMilvus MySQL Vector Search Python\n\n\nLittle Lemon Restaurant Database (Meta Capstone)\nDesigned and implemented a normalized relational database with MySQL; developed stored procedures for booking management; integrated Python and Tableau to automate queries and visualize reservation trends.\nMySQL Database Design Tableau Stored Procedures\n\n\nBanking Trends Analysis\nEngineered robust data pipelines in Python to clean banking transaction data; authored advanced SQL queries to examine deposits, regional spending, and customer activity; derived actionable insights.\nSQL Data Pipeline Python\n\n\nWork-Related Fatality Analysis\nEngineered Python scripts to clean and transform incident data; automated dataset export to MySQL; authored complex SQL queries to examine fatality trends, state-wise incidents, and high-risk activities.\nPython MySQL Data Engineering"
+  },
+  {
+    "objectID": "projects.html#classification-risk-assessment",
+    "href": "projects.html#classification-risk-assessment",
+    "title": "Projects",
+    "section": "Classification & Risk Assessment",
+    "text": "Classification & Risk Assessment\n\n\nBankruptcy in Poland\nDesigned random forest and gradient boosting models to predict company bankruptcy; handled imbalanced datasets through resampling, leveraged Linux command line tools, and balanced precision-recall tradeoffs.\nRandom Forest Gradient Boosting Imbalanced Data Linux\n\n\nEarthquake Damage in Nepal\nCreated logistic regression and decision tree models to assess building damage risks from earthquakes; managed data extraction from SQLite and investigated biases that could cause model discrimination.\nLogistic Regression Decision Trees SQLite Bias Analysis"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Data Science professional passionate about building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. With a strong foundation in Computer Science (B.Tech.) and specialized expertise in Data Science (M.Tech.), I bring a blend of research, engineering, and practical problem-solving skills to every project."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\nM.Tech. in Data Science\nDefence Institute of Advanced Technology, Pune\nAugust 2025\n\nCGPA: 9.0\nRelevant Coursework: Deep Learning for Computer Vision, Advanced Optimization, Advanced Statistics, Big Data Analytics\nThesis: A Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions\n\n\n\nB.Tech. in Computer Science and Engineering\nEchelon Institute of Technology, Faridabad\nJuly 2023\n\nCGPA: 9.021 (First Division with Honours)\nRelevant Coursework: Data Structures, Algorithms, OS, DBMS, Compiler Design, Computer Networks\nMOOCs: Deep Learning, AI: Knowledge Representation and Reasoning, Introduction to Internet of Things, Machine Intelligence and Brain Research"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\n\nAssociate AI Engineer 1\nGriphic\n22 October 2025 – Present\n\nEnd-to-end development for a CAD retrieval application that retrieves similar CAD designs from a library based on a query sketch and a set of tags\nDevelopment of a Digital Twin Builder capable of designing and deploying Intelligent Digital Twins for predictive analytics and control\n\n\n\nResearch Intern\nABB Corporate Research Center\n6 January 2025 – 27 June 2025\n\nDesigned and implemented frameworks for efficient machine learning in resource-constrained environments using TensorFlow and Keras\nImproved collaborative learning techniques in federated settings with emphasis on data privacy and computational efficiency\n\n\n\nIntern\nFrugalX\n10 January 2023 – 10 May 2023\n\nDeveloped an image similarity search framework leveraging artificial neural networks and Milvus to significantly improve accuracy and efficiency of data retrieval processes\nIntegrated MySQL databases to enable fast and reliable mapping and retrieval of filenames and IDs"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About",
+    "section": "Publications",
+    "text": "Publications\n\nPerformance of SOTA Underwater Image Enhancement Models on Underwater Images with High Turbidity\nA. Kumar and B. Ramkrishna\nProceedings of the 2025 National Conference on Communications (NCC), New Delhi, India, pp. 1-6, 2025\nDOI: 10.1109/NCC63735.2025.10983784"
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "Certifications",
+    "text": "Certifications\n\n\nApplied AI Lab: Deep Learning for Computer Vision — WorldQuant University\nSQL Associate — DataCamp\nData Scientist Career Track — 365 Data Science\nBCG Data Science Job Simulation — Forage\nQuantium Data Analytics Job Simulation — Forage\nApplied Data Science Lab — WorldQuant University\nGoogle Data Analytics Professional Certificate — Coursera\nMeta Database Engineer Professional Certificate — Coursera\nAccounting Data Analytics by University of Illinois Urbana-Champaign — Coursera\nData Analysis with Python — freeCodeCamp\nSQL Advanced — HackerRank"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages\n\nPython SQL C Java\n\n\n\nLibraries & Frameworks\n\nTensorFlow Keras PyTorch Scikit-learn NumPy Pandas Matplotlib Seaborn Plotly Dash TextBlob WordCloud Tweepy Milvus Flower SciPy Statsmodels\n\n\n\nConcepts\n\nMachine Learning Deep Learning NLP Computer Vision Time Series Forecasting Clustering Generative AI Federated Learning Statistical Testing A/B Testing Feature Engineering EDA Vector Similarity Search Data Cleaning Data Visualization\n\n\n\nTools & Platforms\n\nMySQL SQLite MongoDB Tableau Streamlit Docker Jupyter Notebook Git GitHub Linux CLI API Integration"
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "About",
+    "section": "Achievements",
+    "text": "Achievements\n\nQualified GATE 2023 (CS) with score of 513\nReceived Director’s Award at Echelon Institute of Technology\n\n\nLet’s connect to explore how data and AI can create meaningful change.\n📧 Email · 🔗 LinkedIn · 💻 GitHub · 📄 Resume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m an Associate AI Engineer at Griphic, where I work on end-to-end development for CAD retrieval applications and Intelligent Digital Twin builders for predictive analytics.\nI hold an M.Tech. in Data Science from the Defence Institute of Advanced Technology, Pune (CGPA 9.0), and a B.Tech. in Computer Science and Engineering from Echelon Institute of Technology (CGPA 9.021, First Division with Honours).\nMy work spans machine learning, deep learning, computer vision, NLP, and generative AI. I’m passionate about building scalable, ethical, and impactful AI systems that solve real-world problems.\n\n\n\nProfile Picture\n\n\n\n\n📧 Email · 🔗 LinkedIn · 💻 GitHub · 📄 Resume"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Home",
+    "section": "What I Do",
+    "text": "What I Do\n\n\nMachine Learning & AI\nBuilding intelligent systems that learn from data, from traditional ML models to cutting-edge deep learning architectures.\n\n\nComputer Vision\nDeveloping models for image classification, object detection, and image generation using CNNs, GANs, and diffusion models.\n\n\nNLP & Text Analytics\nCreating pipelines for sentiment analysis, text processing, and building applications powered by large language models.\n\n\nData Engineering\nDesigning robust data pipelines, working with databases (SQL & NoSQL), and transforming raw data into actionable insights."
+  }
+]

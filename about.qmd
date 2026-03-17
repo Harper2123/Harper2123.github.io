@@ -2,33 +2,174 @@
 title: "About"
 ---
 
-Hi, I am Ayush Kumar
+I am a **Data Science professional** passionate about building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. With a strong foundation in **Computer Science** (B.Tech.) and specialized expertise in **Data Science** (M.Tech.), I bring a blend of research, engineering, and practical problem-solving skills to every project.
 
-I am a **Data Science professional** with a passion for building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. My journey into data science began with a strong foundation in **Computer Science and Engineering** (B.Tech., First Division with Honours, CGPA 9.021) at Echelon Institute of Technology, and has evolved into a specialized focus through my **M.Tech. in Data Science** at the **Defence Institute of Advanced Technology, Pune** (CGPA 9.0).  
+## Education
 
-Over the years, I have developed expertise across the **machine learning ecosystem**, spanning:  
-- **Core Concepts**: Supervised & unsupervised learning, deep learning architectures, NLP, computer vision, time-series forecasting, and statistical modelling.  
-- **Specialized Areas**: Generative AI, federated learning, physics-informed models, vector similarity search, A/B testing, and feature engineering.  
-- **Practical Skills**: Python, SQL, C, Java, TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Plotly, Tableau, Streamlit, Docker, MySQL, MongoDB, and API integration.  
+::: timeline
 
-## Research & Academic Contributions
-My research is driven by the belief that data science should not only be cutting-edge but also grounded in real-world constraints. For my master’s thesis, I developed a **Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions**, combining **deep learning** with **physical modelling** to address challenges in marine imaging. I have also published in peer-reviewed venues, including the **National Conference on Communications (NCC 2025)**, where I presented work on the **performance of state-of-the-art underwater image enhancement models**.  
+::: timeline-item
+### M.Tech. in Data Science
+**Defence Institute of Advanced Technology, Pune**
 
-## Industry Experience
-- **ABB Corporate Research Center (Jan–June 2025)** – Designed frameworks for **efficient machine learning in resource-constrained environments**, enhanced **collaborative learning in federated settings**, and optimized models for **data privacy and computational efficiency**.  
-- **FrugalX (Jan–May 2023)** – Built an **image similarity search framework** using artificial neural networks and **Milvus**, integrated **MySQL databases** for fast retrieval, and optimized large-scale image search systems for commercial use.  
+*August 2025*
 
-## Projects & Applications
-- **Wildlife Conservation in Côte d’Ivoire** – Classified animal species from camera trap images.  
-- **Crop Disease Detection in Uganda** – CNN-based crop disease classification using transfer learning.  
-- **Medical Data Generation in Spain** – GANs to synthesize medical images (X-rays, MRIs).  
-- **Social Media Meme Generator** – Stable diffusion model deployed on Streamlit.  
-- **Volatility Forecasting in India** – GARCH model for asset volatility prediction.  
-- **Earthquake Damage Prediction in Nepal** – Logistic regression & decision trees for risk assessment.  
+- **CGPA:** 9.0
+- **Relevant Coursework:** Deep Learning for Computer Vision, Advanced Optimization, Advanced Statistics, Big Data Analytics
+- **Thesis:** A Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions
+:::
+
+::: timeline-item
+### B.Tech. in Computer Science and Engineering
+**Echelon Institute of Technology, Faridabad**
+
+*July 2023*
+
+- **CGPA:** 9.021 (First Division with Honours)
+- **Relevant Coursework:** Data Structures, Algorithms, OS, DBMS, Compiler Design, Computer Networks
+- **MOOCs:** Deep Learning, AI: Knowledge Representation and Reasoning, Introduction to Internet of Things, Machine Intelligence and Brain Research
+:::
+
+:::
+
+## Experience
+
+::: timeline
+
+::: timeline-item
+### Associate AI Engineer 1
+**Griphic**
+
+*22 October 2025 – Present*
+
+- End-to-end development for a CAD retrieval application that retrieves similar CAD designs from a library based on a query sketch and a set of tags
+- Development of a Digital Twin Builder capable of designing and deploying Intelligent Digital Twins for predictive analytics and control
+:::
+
+::: timeline-item
+### Research Intern
+**ABB Corporate Research Center**
+
+*6 January 2025 – 27 June 2025*
+
+- Designed and implemented frameworks for efficient machine learning in resource-constrained environments using TensorFlow and Keras
+- Improved collaborative learning techniques in federated settings with emphasis on data privacy and computational efficiency
+:::
+
+::: timeline-item
+### Intern
+**FrugalX**
+
+*10 January 2023 – 10 May 2023*
+
+- Developed an image similarity search framework leveraging artificial neural networks and Milvus to significantly improve accuracy and efficiency of data retrieval processes
+- Integrated MySQL databases to enable fast and reliable mapping and retrieval of filenames and IDs
+:::
+
+:::
+
+## Publications
+
+::: publication-item
+### Performance of SOTA Underwater Image Enhancement Models on Underwater Images with High Turbidity
+
+*A. Kumar and B. Ramkrishna*
+
+**Proceedings of the 2025 National Conference on Communications (NCC)**, New Delhi, India, pp. 1-6, 2025
+
+[DOI: 10.1109/NCC63735.2025.10983784](https://doi.org/10.1109/NCC63735.2025.10983784)
+:::
+
+## Certifications
+
+::: certification-list
+
+- Applied AI Lab: Deep Learning for Computer Vision — WorldQuant University
+- SQL Associate — DataCamp
+- Data Scientist Career Track — 365 Data Science
+- BCG Data Science Job Simulation — Forage
+- Quantium Data Analytics Job Simulation — Forage
+- Applied Data Science Lab — WorldQuant University
+- Google Data Analytics Professional Certificate — Coursera
+- Meta Database Engineer Professional Certificate — Coursera
+- Accounting Data Analytics by University of Illinois Urbana-Champaign — Coursera
+- Data Analysis with Python — freeCodeCamp
+- SQL Advanced — HackerRank
+
+:::
+
+## Technical Skills
+
+### Languages
+::: skills-grid
+<span class="skill-badge">Python</span>
+<span class="skill-badge">SQL</span>
+<span class="skill-badge">C</span>
+<span class="skill-badge">Java</span>
+:::
+
+### Libraries & Frameworks
+::: skills-grid
+<span class="skill-badge">TensorFlow</span>
+<span class="skill-badge">Keras</span>
+<span class="skill-badge">PyTorch</span>
+<span class="skill-badge">Scikit-learn</span>
+<span class="skill-badge">NumPy</span>
+<span class="skill-badge">Pandas</span>
+<span class="skill-badge">Matplotlib</span>
+<span class="skill-badge">Seaborn</span>
+<span class="skill-badge">Plotly</span>
+<span class="skill-badge">Dash</span>
+<span class="skill-badge">TextBlob</span>
+<span class="skill-badge">WordCloud</span>
+<span class="skill-badge">Tweepy</span>
+<span class="skill-badge">Milvus</span>
+<span class="skill-badge">Flower</span>
+<span class="skill-badge">SciPy</span>
+<span class="skill-badge">Statsmodels</span>
+:::
+
+### Concepts
+::: skills-grid
+<span class="skill-badge">Machine Learning</span>
+<span class="skill-badge">Deep Learning</span>
+<span class="skill-badge">NLP</span>
+<span class="skill-badge">Computer Vision</span>
+<span class="skill-badge">Time Series Forecasting</span>
+<span class="skill-badge">Clustering</span>
+<span class="skill-badge">Generative AI</span>
+<span class="skill-badge">Federated Learning</span>
+<span class="skill-badge">Statistical Testing</span>
+<span class="skill-badge">A/B Testing</span>
+<span class="skill-badge">Feature Engineering</span>
+<span class="skill-badge">EDA</span>
+<span class="skill-badge">Vector Similarity Search</span>
+<span class="skill-badge">Data Cleaning</span>
+<span class="skill-badge">Data Visualization</span>
+:::
+
+### Tools & Platforms
+::: skills-grid
+<span class="skill-badge">MySQL</span>
+<span class="skill-badge">SQLite</span>
+<span class="skill-badge">MongoDB</span>
+<span class="skill-badge">Tableau</span>
+<span class="skill-badge">Streamlit</span>
+<span class="skill-badge">Docker</span>
+<span class="skill-badge">Jupyter Notebook</span>
+<span class="skill-badge">Git</span>
+<span class="skill-badge">GitHub</span>
+<span class="skill-badge">Linux CLI</span>
+<span class="skill-badge">API Integration</span>
+:::
 
 ## Achievements
-- **Qualified GATE 2023 (CS)** with a score of 513.  
-- Recipient of the **Director’s Award** at Echelon Institute of Technology.  
 
-**Let’s connect to explore how data and AI can create meaningful change.**  
-📧 [Email](mailto:akcoolkmr@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-4234b8155/) | 💻 [GitHub](https://github.com/Harper2123)
+- **Qualified GATE 2023 (CS)** with score of 513
+- Received **Director's Award** at Echelon Institute of Technology
+
+---
+
+*Let's connect to explore how data and AI can create meaningful change.*
+
+[📧 Email](mailto:akcoolkmr@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/ayush-kumar-4234b8155/) · [💻 GitHub](https://github.com/Harper2123) · [📄 Resume](resume/Entire_Resume.pdf)
