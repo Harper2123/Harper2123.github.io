@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a Data Science professional passionate about building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. With a strong foundation in Computer Science (B.Tech.) and specialized expertise in Data Science (M.Tech.), I bring a blend of research, engineering, and practical problem-solving skills to every project."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\n\nM.Tech. in Data Science\nDefence Institute of Advanced Technology, Pune\nAugust 2025\n\nCGPA: 9.0\nRelevant Coursework: Deep Learning for Computer Vision, Advanced Optimization, Advanced Statistics, Big Data Analytics\nThesis: A Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions\n\n\n\nB.Tech. in Computer Science and Engineering\nEchelon Institute of Technology, Faridabad\nJuly 2023\n\nCGPA: 9.021 (First Division with Honours)\nRelevant Coursework: Data Structures, Algorithms, OS, DBMS, Compiler Design, Computer Networks\nMOOCs: Deep Learning, AI: Knowledge Representation and Reasoning, Introduction to Internet of Things, Machine Intelligence and Brain Research"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\n\n\nAssociate AI Engineer 1\nGriphic\n22 October 2025 – Present\n\nEnd-to-end development for a CAD retrieval application that retrieves similar CAD designs from a library based on a query sketch and a set of tags\nDevelopment of a Digital Twin Builder capable of designing and deploying Intelligent Digital Twins for predictive analytics and control\n\n\n\nResearch Intern\nABB Corporate Research Center\n6 January 2025 – 27 June 2025\n\nDesigned and implemented frameworks for efficient machine learning in resource-constrained environments using TensorFlow and Keras\nImproved collaborative learning techniques in federated settings with emphasis on data privacy and computational efficiency\n\n\n\nIntern\nFrugalX\n10 January 2023 – 10 May 2023\n\nDeveloped an image similarity search framework leveraging artificial neural networks and Milvus to significantly improve accuracy and efficiency of data retrieval processes\nIntegrated MySQL databases to enable fast and reliable mapping and retrieval of filenames and IDs"
-  },
-  {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "About",
-    "section": "Publications",
-    "text": "Publications\n\nPerformance of SOTA Underwater Image Enhancement Models on Underwater Images with High Turbidity\nA. Kumar and B. Ramkrishna\nProceedings of the 2025 National Conference on Communications (NCC), New Delhi, India, pp. 1-6, 2025\nDOI: 10.1109/NCC63735.2025.10983784"
-  },
-  {
-    "objectID": "about.html#certifications",
-    "href": "about.html#certifications",
-    "title": "About",
-    "section": "Certifications",
-    "text": "Certifications\n\n\nApplied AI Lab: Deep Learning for Computer Vision — WorldQuant University\nSQL Associate — DataCamp\nData Scientist Career Track — 365 Data Science\nBCG Data Science Job Simulation — Forage\nQuantium Data Analytics Job Simulation — Forage\nApplied Data Science Lab — WorldQuant University\nGoogle Data Analytics Professional Certificate — Coursera\nMeta Database Engineer Professional Certificate — Coursera\nAccounting Data Analytics by University of Illinois Urbana-Champaign — Coursera\nData Analysis with Python — freeCodeCamp\nSQL Advanced — HackerRank"
-  },
-  {
-    "objectID": "about.html#technical-skills",
-    "href": "about.html#technical-skills",
-    "title": "About",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nLanguages\n\nPython SQL C Java\n\n\n\nLibraries & Frameworks\n\nTensorFlow Keras PyTorch Scikit-learn NumPy Pandas Matplotlib Seaborn Plotly Dash TextBlob WordCloud Tweepy Milvus Flower SciPy Statsmodels\n\n\n\nConcepts\n\nMachine Learning Deep Learning NLP Computer Vision Time Series Forecasting Clustering Generative AI Federated Learning Statistical Testing A/B Testing Feature Engineering EDA Vector Similarity Search Data Cleaning Data Visualization\n\n\n\nTools & Platforms\n\nMySQL SQLite MongoDB Tableau Streamlit Docker Jupyter Notebook Git GitHub Linux CLI API Integration"
-  },
-  {
-    "objectID": "about.html#achievements",
-    "href": "about.html#achievements",
-    "title": "About",
-    "section": "Achievements",
-    "text": "Achievements\n\nQualified GATE 2023 (CS) with score of 513\nReceived Director’s Award at Echelon Institute of Technology\n\n\nLet’s connect to explore how data and AI can create meaningful change.\n📧 Email · 🔗 LinkedIn · 💻 GitHub · 📄 Resume"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I’m an Associate AI Engineer at Griphic, where I work on end-to-end development for CAD retrieval applications and Intelligent Digital Twin builders for predictive analytics.\nI hold an M.Tech. in Data Science from the Defence Institute of Advanced Technology, Pune (CGPA 9.0), and a B.Tech. in Computer Science and Engineering from Echelon Institute of Technology (CGPA 9.021, First Division with Honours).\nMy work spans machine learning, deep learning, computer vision, NLP, and generative AI. I’m passionate about building scalable, ethical, and impactful AI systems that solve real-world problems.\n\n\n\nProfile Picture\n\n\n\n\n📧 Email · 🔗 LinkedIn · 💻 GitHub · 📄 Resume"
+    "text": "AI Engineer · Data Scientist · Builder\n\n\n\nI’m an Associate AI Engineer at Griphic, where I work on end-to-end development for CAD retrieval applications and Intelligent Digital Twin builders for predictive analytics.\nI hold an M.Tech. in Data Science from the Defence Institute of Advanced Technology, Pune (CGPA 9.0), and a B.Tech. in Computer Science and Engineering from Echelon Institute of Technology (CGPA 9.021, First Division with Honours).\nMy work spans machine learning, deep learning, computer vision, NLP, and generative AI. I’m passionate about building scalable, ethical, and impactful AI systems that solve real-world problems.\n\n\n\nProfile Picture\n\n\n\nAI + ML Engineering Computer Vision NLP and Generative AI Data and MLOps Workflows\n\n\n\n\nEmail LinkedIn GitHub Resume"
   },
   {
     "objectID": "index.html#what-i-do",
@@ -110,5 +61,54 @@
     "title": "Projects",
     "section": "Classification & Risk Assessment",
     "text": "Classification & Risk Assessment\n\n\nBankruptcy in Poland\nDesigned random forest and gradient boosting models to predict company bankruptcy; handled imbalanced datasets through resampling, leveraged Linux command line tools, and balanced precision-recall tradeoffs.\nRandom Forest Gradient Boosting Imbalanced Data Linux\n\n\nEarthquake Damage in Nepal\nCreated logistic regression and decision tree models to assess building damage risks from earthquakes; managed data extraction from SQLite and investigated biases that could cause model discrimination.\nLogistic Regression Decision Trees SQLite Bias Analysis"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Data Science professional passionate about building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. With a strong foundation in Computer Science (B.Tech.) and specialized expertise in Data Science (M.Tech.), I bring a blend of research, engineering, and practical problem-solving skills to every project."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\nM.Tech. in Data Science\nDefence Institute of Advanced Technology, Pune\nAugust 2025\n\nCGPA: 9.0\nRelevant Coursework: Deep Learning for Computer Vision, Advanced Optimization, Advanced Statistics, Big Data Analytics\nThesis: A Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions\n\n\n\nB.Tech. in Computer Science and Engineering\nEchelon Institute of Technology, Faridabad\nJuly 2023\n\nCGPA: 9.021 (First Division with Honours)\nRelevant Coursework: Data Structures, Algorithms, OS, DBMS, Compiler Design, Computer Networks\nMOOCs: Deep Learning, AI: Knowledge Representation and Reasoning, Introduction to Internet of Things, Machine Intelligence and Brain Research"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\n\nAssociate AI Engineer 1\nGriphic\n22 October 2025 – Present\n\nEnd-to-end development for a CAD retrieval application that retrieves similar CAD designs from a library based on a query sketch and a set of tags\nDevelopment of a Digital Twin Builder capable of designing and deploying Intelligent Digital Twins for predictive analytics and control\n\n\n\nResearch Intern\nABB Corporate Research Center\n6 January 2025 – 27 June 2025\n\nDesigned and implemented frameworks for efficient machine learning in resource-constrained environments using TensorFlow and Keras\nImproved collaborative learning techniques in federated settings with emphasis on data privacy and computational efficiency\n\n\n\nIntern\nFrugalX\n10 January 2023 – 10 May 2023\n\nDeveloped an image similarity search framework leveraging artificial neural networks and Milvus to significantly improve accuracy and efficiency of data retrieval processes\nIntegrated MySQL databases to enable fast and reliable mapping and retrieval of filenames and IDs"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About",
+    "section": "Publications",
+    "text": "Publications\n\nPerformance of SOTA Underwater Image Enhancement Models on Underwater Images with High Turbidity\nA. Kumar and B. Ramkrishna\nProceedings of the 2025 National Conference on Communications (NCC), New Delhi, India, pp. 1-6, 2025\nDOI: 10.1109/NCC63735.2025.10983784"
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "Certifications",
+    "text": "Certifications\n\n\nApplied AI Lab: Deep Learning for Computer Vision — WorldQuant University\nSQL Associate — DataCamp\nData Scientist Career Track — 365 Data Science\nBCG Data Science Job Simulation — Forage\nQuantium Data Analytics Job Simulation — Forage\nApplied Data Science Lab — WorldQuant University\nGoogle Data Analytics Professional Certificate — Coursera\nMeta Database Engineer Professional Certificate — Coursera\nAccounting Data Analytics by University of Illinois Urbana-Champaign — Coursera\nData Analysis with Python — freeCodeCamp\nSQL Advanced — HackerRank"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages\n\nPython SQL C Java\n\n\n\nLibraries & Frameworks\n\nTensorFlow Keras PyTorch Scikit-learn NumPy Pandas Matplotlib Seaborn Plotly Dash TextBlob WordCloud Tweepy Milvus Flower SciPy Statsmodels\n\n\n\nConcepts\n\nMachine Learning Deep Learning NLP Computer Vision Time Series Forecasting Clustering Generative AI Federated Learning Statistical Testing A/B Testing Feature Engineering EDA Vector Similarity Search Data Cleaning Data Visualization\n\n\n\nTools & Platforms\n\nMySQL SQLite MongoDB Tableau Streamlit Docker Jupyter Notebook Git GitHub Linux CLI API Integration"
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "About",
+    "section": "Achievements",
+    "text": "Achievements\n\nQualified GATE 2023 (CS) with score of 513\nReceived Director’s Award at Echelon Institute of Technology\n\n\nLet’s connect to explore how data and AI can create meaningful change.\n📧 Email · 🔗 LinkedIn · 💻 GitHub · 📄 Resume"
   }
 ]
