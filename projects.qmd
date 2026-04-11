@@ -2,7 +2,9 @@
 title: "Projects"
 ---
 
+::: {.page-intro}
 I've worked on a diverse range of projects spanning computer vision, NLP, time series analysis, and data analytics. Here are my selected projects organized by category:
+:::
 
 ## Computer Vision & Image Processing
 

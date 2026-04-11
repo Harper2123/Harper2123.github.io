@@ -3,6 +3,8 @@ title: "Home"
 ---
 
 ::: hero
+<div class="hero-eyebrow">AI Engineer · Data Scientist · Builder</div>
+
 # Hi, I'm Ayush Kumar 👋
 
 I'm an **Associate AI Engineer** at **Griphic**, where I work on end-to-end development for CAD retrieval applications and Intelligent Digital Twin builders for predictive analytics.
@@ -13,9 +15,21 @@ My work spans **machine learning**, **deep learning**, **computer vision**, **NL
 
 ![Profile Picture](images/photo.png){.profile-image}
 
+<div class="hero-metrics">
+  <span>AI + ML Engineering</span>
+  <span>Computer Vision</span>
+  <span>NLP and Generative AI</span>
+  <span>Data and MLOps Workflows</span>
+</div>
+
 ### Connect with Me
 
-[📧 Email](mailto:akcoolkmr@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/ayush-kumar-4234b8155/) · [💻 GitHub](https://github.com/Harper2123) · [📄 Resume](resume/Entire_Resume.pdf)
+<div class="contact-links">
+  <a href="mailto:akcoolkmr@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-4234b8155/">LinkedIn</a>
+  <a href="https://github.com/Harper2123">GitHub</a>
+  <a href="resume/Entire_Resume.pdf">Resume</a>
+</div>
 
 :::
 

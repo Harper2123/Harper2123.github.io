@@ -2,7 +2,9 @@
 title: "About"
 ---
 
+::: {.page-intro}
 I am a **Data Science professional** passionate about building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. With a strong foundation in **Computer Science** (B.Tech.) and specialized expertise in **Data Science** (M.Tech.), I bring a blend of research, engineering, and practical problem-solving skills to every project.
+:::
 
 ## Education
 
