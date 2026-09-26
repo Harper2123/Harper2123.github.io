@@ -3,272 +3,88 @@ title: "Projects"
 ---
 
 ::: {.page-intro}
-I've worked on a diverse range of projects spanning computer vision, NLP, time series analysis, and data analytics. Here are my selected projects organized by category:
+This page prioritizes the work that best reflects my current engineering and research direction. Earlier coursework and learning projects are preserved more compactly below rather than presented at equal weight with current evidence.
 :::
 
-## Computer Vision & Image Processing
+## Selected Work
 
 ::: project-grid
 
 ::: project-card
-### Wildlife Conservation in Côte d'Ivoire
-Developed advanced neural network models to classify animal species from camera trap images, supporting scientists in tracking wildlife populations through an image classification competition.
+### Physics-Informed Underwater Image Enhancement
 
-<span class="project-tag">CNN</span>
-<span class="project-tag">Transfer Learning</span>
-<span class="project-tag">Image Classification</span>
-:::
+My M.Tech. thesis investigated a physics-informed diffusion framework for enhancing underwater images under high-turbidity conditions. The work combined computer vision, generative modelling, physical priors, and experimental evaluation.
 
-::: project-card
-### Crop Disease Detection in Uganda
-Built and trained a convolutional neural network (CNN) to classify crop disease images into five categories; improved model accuracy by leveraging transfer learning with pre-trained models and training optimizations using Callbacks.
+[Read the NCC 2025 paper](https://doi.org/10.1109/NCC63735.2025.10983784) · [Read the technical article on Medium](https://medium.com/@akcoolkmr/physics-deep-learning-why-physical-priors-still-matter-in-the-age-of-big-models-9c220710e355)
 
-<span class="project-tag">CNN</span>
-<span class="project-tag">Transfer Learning</span>
-<span class="project-tag">Keras</span>
-:::
-
-::: project-card
-### Traffic Monitoring in Bangladesh
-Processed real-time traffic video feeds from Dhaka to detect and label objects such as vehicles and pedestrians; extended pre-trained object detection models to handle custom traffic analysis tasks.
-
-<span class="project-tag">Object Detection</span>
 <span class="project-tag">Computer Vision</span>
-<span class="project-tag">Video Processing</span>
-:::
-
-::: project-card
-### Medical Data Generation in Spain
-Designed and trained Generative Adversarial Networks (GANs) to synthesize medical images like X-rays and MRIs; deployed an interactive Streamlit web app and managed version control using Git and GitHub.
-
-<span class="project-tag">GANs</span>
-<span class="project-tag">Streamlit</span>
-<span class="project-tag">Medical Imaging</span>
-:::
-
-::: project-card
-### Celebrity Sightings in India
-Implemented face detection and recognition using MTCNN and Inception-ResNet; built a Flask application to perform face recognition on uploaded images, demonstrated on video footage of boxer Mary Kom.
-
-<span class="project-tag">Face Recognition</span>
-<span class="project-tag">MTCNN</span>
-<span class="project-tag">Flask</span>
-:::
-
-::: project-card
-### Underwater Image Enhancement
-Developed a Physics-Informed Diffusion-Based Framework for enhancing underwater images in high turbidity conditions, combining deep learning with physical modelling for marine imaging applications.
-
 <span class="project-tag">Diffusion Models</span>
 <span class="project-tag">Physics-Informed ML</span>
-<span class="project-tag">Computer Vision</span>
-:::
-
-:::
-
-## NLP & Generative AI
-
-::: project-grid
-
-::: project-card
-### Live Twitter Sentiment Analysis
-Developed an interactive Streamlit tool to stream live tweets via Tweepy; implemented NLP sentiment pipelines using TextBlob; produced real-time sentiment dashboards and WordClouds to interpret public opinion trends.
-
-<span class="project-tag">NLP</span>
-<span class="project-tag">Tweepy</span>
-<span class="project-tag">Streamlit</span>
-<span class="project-tag">TextBlob</span>
+<span class="project-tag">Research</span>
 :::
 
 ::: project-card
-### Social Media Meme Generator
-Applied stable diffusion models to develop a meme generator for social media campaigns; deployed the solution as an interactive Streamlit application.
+### Image Similarity Search
 
-<span class="project-tag">Stable Diffusion</span>
-<span class="project-tag">Generative AI</span>
-<span class="project-tag">Streamlit</span>
-:::
+Built during my FrugalX internship, this project implements an end-to-end visual retrieval workflow using learned image features, Milvus for vector indexing and similarity search, and MySQL for mapping vector IDs back to image records.
 
-:::
+[View the repository on GitHub](https://github.com/Harper2123/Image-Similarity-Search)
 
-## Time Series & Finance
-
-::: project-grid
-
-::: project-card
-### Air Quality in Nairobi
-Built an ARMA time-series model to forecast particulate matter levels in Kenya; extracted data from MongoDB using PyMongo and improved prediction accuracy through hyperparameter tuning.
-
-<span class="project-tag">ARMA</span>
-<span class="project-tag">Time Series</span>
-<span class="project-tag">MongoDB</span>
-:::
-
-::: project-card
-### Volatility Forecasting in India
-Developed a GARCH time-series model to predict asset volatility; retrieved stock data via an API, stored it in SQLite, and built a custom API to deliver predictions.
-
-<span class="project-tag">GARCH</span>
-<span class="project-tag">Time Series</span>
-<span class="project-tag">API Development</span>
-<span class="project-tag">SQLite</span>
-:::
-
-::: project-card
-### NBA MVP Predictor
-Automated web scraping of player, team, and MVP data from Basketball Reference; cleaned and merged historical stats (1991–2022); built predictive models to forecast MVP selections based on key performance metrics.
-
-<span class="project-tag">Web Scraping</span>
-<span class="project-tag">Predictive Modeling</span>
-<span class="project-tag">Pandas</span>
-:::
-
-:::
-
-## Data Analytics & Visualization
-
-::: project-grid
-
-::: project-card
-### Customer Churn Analysis (BCG Forage)
-Engineered a random forest model achieving 50% recall for churn prediction; analyzed client data using Python (Pandas, NumPy); created visual dashboards and authored an executive summary with strategic recommendations.
-
-<span class="project-tag">Random Forest</span>
-<span class="project-tag">Data Visualization</span>
-<span class="project-tag">Pandas</span>
-:::
-
-::: project-card
-### Retail Data Analytics (Quantium Forage)
-Analyzed transaction datasets to generate customer insights and commercial recommendations; identified benchmark stores for uplift testing on new layouts; delivered strategic reports for the Category Manager.
-
-<span class="project-tag">Data Analysis</span>
-<span class="project-tag">Business Intelligence</span>
-<span class="project-tag">SQL</span>
-:::
-
-::: project-card
-### Customer Segmentation in the US
-Implemented k-means clustering to segment US consumers; visualized high-dimensional data using PCA and developed an interactive dashboard with Plotly Dash.
-
-<span class="project-tag">K-Means</span>
-<span class="project-tag">PCA</span>
-<span class="project-tag">Plotly Dash</span>
-:::
-
-::: project-card
-### A/B Testing at WorldQuant University
-Conducted chi-square tests to evaluate the impact of marketing emails on enrollment; built custom Python ETL classes and deployed an interactive app using a three-tier architecture.
-
-<span class="project-tag">A/B Testing</span>
-<span class="project-tag">Chi-Square</span>
-<span class="project-tag">ETL</span>
-:::
-
-::: project-card
-### Business Data Visualization (TCS Forage)
-Designed executive-level data visualizations for Tata Consultancy Services; crafted client-focused questions for senior leadership meetings; translated analytical findings into clear visuals.
-
-<span class="project-tag">Data Visualization</span>
-<span class="project-tag">Tableau</span>
-<span class="project-tag">Business Intelligence</span>
-:::
-
-::: project-card
-### Housing in Mexico
-Analyzed a dataset of 21,000 properties to study the influence of property size and location on real estate prices; performed data cleaning, created visualizations, and examined variable correlations.
-
-<span class="project-tag">EDA</span>
-<span class="project-tag">Data Cleaning</span>
-<span class="project-tag">Visualization</span>
-:::
-
-::: project-card
-### Apartment Sales in Buenos Aires
-Developed a linear regression model to predict apartment prices in Argentina; built a data pipeline for imputation and encoding, and enhanced model performance by addressing overfitting.
-
-<span class="project-tag">Linear Regression</span>
-<span class="project-tag">Data Pipeline</span>
-<span class="project-tag">Scikit-learn</span>
-:::
-
-::: project-card
-### Zomato Restaurant Data Analysis
-Processed raw restaurant data with Python and Excel; performed SQL-based analysis to identify top-rated venues, compare online vs offline ordering trends, and generate strategic insights for Zomato's growth.
-
-<span class="project-tag">SQL</span>
-<span class="project-tag">Data Analysis</span>
-<span class="project-tag">Python</span>
-:::
-
-:::
-
-## Database & Engineering
-
-::: project-grid
-
-::: project-card
-### Image Similarity Search Engine
-Built an end-to-end image similarity pipeline with Python, Milvus, and MySQL; extracted features, indexed vectors, and linked Milvus IDs to filenames to deliver fast vector-based search for similar images.
-
+<span class="project-tag">Visual Retrieval</span>
 <span class="project-tag">Milvus</span>
 <span class="project-tag">MySQL</span>
-<span class="project-tag">Vector Search</span>
 <span class="project-tag">Python</span>
 :::
 
 ::: project-card
-### Little Lemon Restaurant Database (Meta Capstone)
-Designed and implemented a normalized relational database with MySQL; developed stored procedures for booking management; integrated Python and Tableau to automate queries and visualize reservation trends.
+### WQU Applied AI Lab
 
-<span class="project-tag">MySQL</span>
-<span class="project-tag">Database Design</span>
-<span class="project-tag">Tableau</span>
-<span class="project-tag">Stored Procedures</span>
-:::
+A consolidated body of six capstone projects covering computer vision and generative-AI problems, including image classification, object detection, face recognition, and GAN-based image generation. I keep this as evidence of breadth and earlier applied learning rather than as a single flagship project.
 
-::: project-card
-### Banking Trends Analysis
-Engineered robust data pipelines in Python to clean banking transaction data; authored advanced SQL queries to examine deposits, regional spending, and customer activity; derived actionable insights.
+[View the repository on GitHub](https://github.com/Harper2123/wqu-applied-ai-lab)
 
-<span class="project-tag">SQL</span>
-<span class="project-tag">Data Pipeline</span>
-<span class="project-tag">Python</span>
-:::
-
-::: project-card
-### Work-Related Fatality Analysis
-Engineered Python scripts to clean and transform incident data; automated dataset export to MySQL; authored complex SQL queries to examine fatality trends, state-wise incidents, and high-risk activities.
-
-<span class="project-tag">Python</span>
-<span class="project-tag">MySQL</span>
-<span class="project-tag">Data Engineering</span>
+<span class="project-tag">Computer Vision</span>
+<span class="project-tag">Deep Learning</span>
+<span class="project-tag">Applied ML</span>
 :::
 
 :::
 
-## Classification & Risk Assessment
+## Earlier Learning & Project History
 
-::: project-grid
+The projects below reflect earlier coursework, capstones, simulations, and exploratory work. They remain part of my learning history, but they are intentionally not foregrounded as current flagship work.
 
-::: project-card
-### Bankruptcy in Poland
-Designed random forest and gradient boosting models to predict company bankruptcy; handled imbalanced datasets through resampling, leveraged Linux command line tools, and balanced precision-recall tradeoffs.
+### Computer Vision & Generative AI
 
-<span class="project-tag">Random Forest</span>
-<span class="project-tag">Gradient Boosting</span>
-<span class="project-tag">Imbalanced Data</span>
-<span class="project-tag">Linux</span>
-:::
+- **Wildlife Conservation in Côte d'Ivoire** — image classification for camera-trap wildlife data
+- **Crop Disease Detection in Uganda** — transfer learning for crop-disease classification
+- **Traffic Monitoring in Bangladesh** — object detection on traffic video
+- **Medical Data Generation in Spain** — GAN experiments with an interactive Streamlit application
+- **Celebrity Sightings in India** — face detection and recognition using MTCNN and Inception-ResNet
+- **Social Media Meme Generator** — Stable Diffusion-based image generation experiment
+- **Live Twitter Sentiment Analysis** — NLP sentiment pipeline and Streamlit dashboard
 
-::: project-card
-### Earthquake Damage in Nepal
-Created logistic regression and decision tree models to assess building damage risks from earthquakes; managed data extraction from SQLite and investigated biases that could cause model discrimination.
+### Time Series, Statistics & Finance
 
-<span class="project-tag">Logistic Regression</span>
-<span class="project-tag">Decision Trees</span>
-<span class="project-tag">SQLite</span>
-<span class="project-tag">Bias Analysis</span>
-:::
+- **Air Quality in Nairobi** — ARMA time-series forecasting with MongoDB-backed data
+- **Volatility Forecasting in India** — GARCH volatility modelling with API and SQLite integration
+- **A/B Testing at WorldQuant University** — chi-square testing and ETL/application work
+- **NBA MVP Predictor** — historical sports-data scraping and predictive modelling
 
-:::
+### Classical ML & Analytics
+
+- **Bankruptcy in Poland** — tree-based models for imbalanced classification
+- **Earthquake Damage in Nepal** — logistic regression and decision trees with bias analysis
+- **Customer Segmentation in the US** — k-means clustering and PCA
+- **Housing in Mexico** — exploratory analysis of real-estate data
+- **Apartment Sales in Buenos Aires** — linear regression with preprocessing pipelines
+
+### Data, SQL & Business Analytics
+
+- **Little Lemon Restaurant Database** — relational database design, stored procedures, Python, and Tableau
+- **Banking Trends Analysis** — Python and SQL data-analysis workflows
+- **Work-Related Fatality Analysis** — Python-to-MySQL data pipeline and SQL analysis
+- **Zomato Restaurant Data Analysis** — Python, Excel, and SQL analysis
+- **BCG, Quantium, and TCS simulations** — earlier business/data-analysis exercises
+
+The full repository history remains available on [GitHub](https://github.com/Harper2123).
