@@ -13,9 +13,9 @@ This page prioritizes the work that best reflects my current engineering and res
 ::: project-card
 ### Physics-Informed Underwater Image Enhancement
 
-My M.Tech. thesis investigated a physics-informed diffusion framework for enhancing underwater images under high-turbidity conditions. The work combined computer vision, generative modelling, physical priors, and experimental evaluation.
+My M.Tech. thesis investigated a physics-informed diffusion framework for enhancing underwater images under high-turbidity conditions. It grew from earlier work evaluating state-of-the-art underwater image enhancement models under high turbidity, which was published at NCC 2025.
 
-[Read the NCC 2025 paper](https://doi.org/10.1109/NCC63735.2025.10983784) · [Read the technical article on Medium](https://medium.com/@akcoolkmr/physics-deep-learning-why-physical-priors-still-matter-in-the-age-of-big-models-9c220710e355)
+[Related NCC 2025 publication](https://doi.org/10.1109/NCC63735.2025.10983784) · [Thesis-focused technical article on Medium](https://medium.com/@akcoolkmr/physics-deep-learning-why-physical-priors-still-matter-in-the-age-of-big-models-9c220710e355)
 
 <span class="project-tag">Computer Vision</span>
 <span class="project-tag">Diffusion Models</span>
