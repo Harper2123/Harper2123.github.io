@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5a83ac1042a9f91544d832ec3f6fdbf8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b5db7b04081eb19a58115239213b8780.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -138,12 +138,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#computer-vision-image-processing" id="toc-computer-vision-image-processing" class="nav-link active" data-scroll-target="#computer-vision-image-processing">Computer Vision &amp; Image Processing</a></li>
-  <li><a href="#nlp-generative-ai" id="toc-nlp-generative-ai" class="nav-link" data-scroll-target="#nlp-generative-ai">NLP &amp; Generative AI</a></li>
-  <li><a href="#time-series-finance" id="toc-time-series-finance" class="nav-link" data-scroll-target="#time-series-finance">Time Series &amp; Finance</a></li>
-  <li><a href="#data-analytics-visualization" id="toc-data-analytics-visualization" class="nav-link" data-scroll-target="#data-analytics-visualization">Data Analytics &amp; Visualization</a></li>
-  <li><a href="#database-engineering" id="toc-database-engineering" class="nav-link" data-scroll-target="#database-engineering">Database &amp; Engineering</a></li>
-  <li><a href="#classification-risk-assessment" id="toc-classification-risk-assessment" class="nav-link" data-scroll-target="#classification-risk-assessment">Classification &amp; Risk Assessment</a></li>
+  <li><a href="#selected-work" id="toc-selected-work" class="nav-link active" data-scroll-target="#selected-work">Selected Work</a></li>
+  <li><a href="#earlier-learning-project-history" id="toc-earlier-learning-project-history" class="nav-link" data-scroll-target="#earlier-learning-project-history">Earlier Learning &amp; Project History</a>
+  <ul class="collapse">
+  <li><a href="#computer-vision-generative-ai" id="toc-computer-vision-generative-ai" class="nav-link" data-scroll-target="#computer-vision-generative-ai">Computer Vision &amp; Generative AI</a></li>
+  <li><a href="#time-series-statistics-finance" id="toc-time-series-statistics-finance" class="nav-link" data-scroll-target="#time-series-statistics-finance">Time Series, Statistics &amp; Finance</a></li>
+  <li><a href="#classical-ml-analytics" id="toc-classical-ml-analytics" class="nav-link" data-scroll-target="#classical-ml-analytics">Classical ML &amp; Analytics</a></li>
+  <li><a href="#data-sql-business-analytics" id="toc-data-sql-business-analytics" class="nav-link" data-scroll-target="#data-sql-business-analytics">Data, SQL &amp; Business Analytics</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -170,164 +172,78 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="page-intro">
-<p>I’ve worked on a diverse range of projects spanning computer vision, NLP, time series analysis, and data analytics. Here are my selected projects organized by category:</p>
+<p>This page prioritizes the work that best reflects my current engineering and research direction. Earlier coursework and learning projects are preserved more compactly below rather than presented at equal weight with current evidence.</p>
 </div>
-<section id="computer-vision-image-processing" class="level2">
-<h2 class="anchored" data-anchor-id="computer-vision-image-processing">Computer Vision &amp; Image Processing</h2>
+<section id="selected-work" class="level2">
+<h2 class="anchored" data-anchor-id="selected-work">Selected Work</h2>
 <div class="project-grid">
-<section id="wildlife-conservation-in-côte-divoire" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="wildlife-conservation-in-côte-divoire">Wildlife Conservation in Côte d’Ivoire</h3>
-<p>Developed advanced neural network models to classify animal species from camera trap images, supporting scientists in tracking wildlife populations through an image classification competition.</p>
-<p><span class="project-tag">CNN</span> <span class="project-tag">Transfer Learning</span> <span class="project-tag">Image Classification</span></p>
+<section id="physics-informed-underwater-image-enhancement" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="physics-informed-underwater-image-enhancement">Physics-Informed Underwater Image Enhancement</h3>
+<p>My M.Tech. thesis investigated a physics-informed diffusion framework for enhancing underwater images under high-turbidity conditions. It grew from earlier work evaluating state-of-the-art underwater image enhancement models under high turbidity, which was published at NCC 2025.</p>
+<p><a href="https://doi.org/10.1109/NCC63735.2025.10983784">Related NCC 2025 publication</a> · <a href="https://medium.com/@akcoolkmr/physics-deep-learning-why-physical-priors-still-matter-in-the-age-of-big-models-9c220710e355">Thesis-focused technical article on Medium</a></p>
+<p><span class="project-tag">Computer Vision</span> <span class="project-tag">Diffusion Models</span> <span class="project-tag">Physics-Informed ML</span> <span class="project-tag">Research</span></p>
 </section>
-<section id="crop-disease-detection-in-uganda" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="crop-disease-detection-in-uganda">Crop Disease Detection in Uganda</h3>
-<p>Built and trained a convolutional neural network (CNN) to classify crop disease images into five categories; improved model accuracy by leveraging transfer learning with pre-trained models and training optimizations using Callbacks.</p>
-<p><span class="project-tag">CNN</span> <span class="project-tag">Transfer Learning</span> <span class="project-tag">Keras</span></p>
+<section id="image-similarity-search" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="image-similarity-search">Image Similarity Search</h3>
+<p>Built during my FrugalX internship, this project implements an end-to-end visual retrieval workflow using learned image features, Milvus for vector indexing and similarity search, and MySQL for mapping vector IDs back to image records.</p>
+<p><a href="https://github.com/Harper2123/Image-Similarity-Search">View the repository on GitHub</a></p>
+<p><span class="project-tag">Visual Retrieval</span> <span class="project-tag">Milvus</span> <span class="project-tag">MySQL</span> <span class="project-tag">Python</span></p>
 </section>
-<section id="traffic-monitoring-in-bangladesh" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="traffic-monitoring-in-bangladesh">Traffic Monitoring in Bangladesh</h3>
-<p>Processed real-time traffic video feeds from Dhaka to detect and label objects such as vehicles and pedestrians; extended pre-trained object detection models to handle custom traffic analysis tasks.</p>
-<p><span class="project-tag">Object Detection</span> <span class="project-tag">Computer Vision</span> <span class="project-tag">Video Processing</span></p>
-</section>
-<section id="medical-data-generation-in-spain" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="medical-data-generation-in-spain">Medical Data Generation in Spain</h3>
-<p>Designed and trained Generative Adversarial Networks (GANs) to synthesize medical images like X-rays and MRIs; deployed an interactive Streamlit web app and managed version control using Git and GitHub.</p>
-<p><span class="project-tag">GANs</span> <span class="project-tag">Streamlit</span> <span class="project-tag">Medical Imaging</span></p>
-</section>
-<section id="celebrity-sightings-in-india" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="celebrity-sightings-in-india">Celebrity Sightings in India</h3>
-<p>Implemented face detection and recognition using MTCNN and Inception-ResNet; built a Flask application to perform face recognition on uploaded images, demonstrated on video footage of boxer Mary Kom.</p>
-<p><span class="project-tag">Face Recognition</span> <span class="project-tag">MTCNN</span> <span class="project-tag">Flask</span></p>
-</section>
-<section id="underwater-image-enhancement" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="underwater-image-enhancement">Underwater Image Enhancement</h3>
-<p>Developed a Physics-Informed Diffusion-Based Framework for enhancing underwater images in high turbidity conditions, combining deep learning with physical modelling for marine imaging applications.</p>
-<p><span class="project-tag">Diffusion Models</span> <span class="project-tag">Physics-Informed ML</span> <span class="project-tag">Computer Vision</span></p>
+<section id="wqu-applied-ai-lab" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="wqu-applied-ai-lab">WQU Applied AI Lab</h3>
+<p>A consolidated body of six capstone projects covering computer vision and generative-AI problems, including image classification, object detection, face recognition, and GAN-based image generation. I keep this as evidence of breadth and earlier applied learning rather than as a single flagship project.</p>
+<p><a href="https://github.com/Harper2123/wqu-applied-ai-lab">View the repository on GitHub</a></p>
+<p><span class="project-tag">Computer Vision</span> <span class="project-tag">Deep Learning</span> <span class="project-tag">Applied ML</span></p>
 </section>
 </div>
 </section>
-<section id="nlp-generative-ai" class="level2">
-<h2 class="anchored" data-anchor-id="nlp-generative-ai">NLP &amp; Generative AI</h2>
-<div class="project-grid">
-<section id="live-twitter-sentiment-analysis" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="live-twitter-sentiment-analysis">Live Twitter Sentiment Analysis</h3>
-<p>Developed an interactive Streamlit tool to stream live tweets via Tweepy; implemented NLP sentiment pipelines using TextBlob; produced real-time sentiment dashboards and WordClouds to interpret public opinion trends.</p>
-<p><span class="project-tag">NLP</span> <span class="project-tag">Tweepy</span> <span class="project-tag">Streamlit</span> <span class="project-tag">TextBlob</span></p>
+<section id="earlier-learning-project-history" class="level2">
+<h2 class="anchored" data-anchor-id="earlier-learning-project-history">Earlier Learning &amp; Project History</h2>
+<p>The projects below reflect earlier coursework, capstones, simulations, and exploratory work. They remain part of my learning history, but they are intentionally not foregrounded as current flagship work.</p>
+<section id="computer-vision-generative-ai" class="level3">
+<h3 class="anchored" data-anchor-id="computer-vision-generative-ai">Computer Vision &amp; Generative AI</h3>
+<ul>
+<li><strong>Wildlife Conservation in Côte d’Ivoire</strong> — image classification for camera-trap wildlife data</li>
+<li><strong>Crop Disease Detection in Uganda</strong> — transfer learning for crop-disease classification</li>
+<li><strong>Traffic Monitoring in Bangladesh</strong> — object detection on traffic video</li>
+<li><strong>Medical Data Generation in Spain</strong> — GAN experiments with an interactive Streamlit application</li>
+<li><strong>Celebrity Sightings in India</strong> — face detection and recognition using MTCNN and Inception-ResNet</li>
+<li><strong>Social Media Meme Generator</strong> — Stable Diffusion-based image generation experiment</li>
+<li><strong>Live Twitter Sentiment Analysis</strong> — NLP sentiment pipeline and Streamlit dashboard</li>
+</ul>
 </section>
-<section id="social-media-meme-generator" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="social-media-meme-generator">Social Media Meme Generator</h3>
-<p>Applied stable diffusion models to develop a meme generator for social media campaigns; deployed the solution as an interactive Streamlit application.</p>
-<p><span class="project-tag">Stable Diffusion</span> <span class="project-tag">Generative AI</span> <span class="project-tag">Streamlit</span></p>
+<section id="time-series-statistics-finance" class="level3">
+<h3 class="anchored" data-anchor-id="time-series-statistics-finance">Time Series, Statistics &amp; Finance</h3>
+<ul>
+<li><strong>Air Quality in Nairobi</strong> — ARMA time-series forecasting with MongoDB-backed data</li>
+<li><strong>Volatility Forecasting in India</strong> — GARCH volatility modelling with API and SQLite integration</li>
+<li><strong>A/B Testing at WorldQuant University</strong> — chi-square testing and ETL/application work</li>
+<li><strong>NBA MVP Predictor</strong> — historical sports-data scraping and predictive modelling</li>
+</ul>
 </section>
-</div>
+<section id="classical-ml-analytics" class="level3">
+<h3 class="anchored" data-anchor-id="classical-ml-analytics">Classical ML &amp; Analytics</h3>
+<ul>
+<li><strong>Bankruptcy in Poland</strong> — tree-based models for imbalanced classification</li>
+<li><strong>Earthquake Damage in Nepal</strong> — logistic regression and decision trees with bias analysis</li>
+<li><strong>Customer Segmentation in the US</strong> — k-means clustering and PCA</li>
+<li><strong>Housing in Mexico</strong> — exploratory analysis of real-estate data</li>
+<li><strong>Apartment Sales in Buenos Aires</strong> — linear regression with preprocessing pipelines</li>
+</ul>
 </section>
-<section id="time-series-finance" class="level2">
-<h2 class="anchored" data-anchor-id="time-series-finance">Time Series &amp; Finance</h2>
-<div class="project-grid">
-<section id="air-quality-in-nairobi" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="air-quality-in-nairobi">Air Quality in Nairobi</h3>
-<p>Built an ARMA time-series model to forecast particulate matter levels in Kenya; extracted data from MongoDB using PyMongo and improved prediction accuracy through hyperparameter tuning.</p>
-<p><span class="project-tag">ARMA</span> <span class="project-tag">Time Series</span> <span class="project-tag">MongoDB</span></p>
-</section>
-<section id="volatility-forecasting-in-india" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="volatility-forecasting-in-india">Volatility Forecasting in India</h3>
-<p>Developed a GARCH time-series model to predict asset volatility; retrieved stock data via an API, stored it in SQLite, and built a custom API to deliver predictions.</p>
-<p><span class="project-tag">GARCH</span> <span class="project-tag">Time Series</span> <span class="project-tag">API Development</span> <span class="project-tag">SQLite</span></p>
-</section>
-<section id="nba-mvp-predictor" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="nba-mvp-predictor">NBA MVP Predictor</h3>
-<p>Automated web scraping of player, team, and MVP data from Basketball Reference; cleaned and merged historical stats (1991–2022); built predictive models to forecast MVP selections based on key performance metrics.</p>
-<p><span class="project-tag">Web Scraping</span> <span class="project-tag">Predictive Modeling</span> <span class="project-tag">Pandas</span></p>
-</section>
-</div>
-</section>
-<section id="data-analytics-visualization" class="level2">
-<h2 class="anchored" data-anchor-id="data-analytics-visualization">Data Analytics &amp; Visualization</h2>
-<div class="project-grid">
-<section id="customer-churn-analysis-bcg-forage" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="customer-churn-analysis-bcg-forage">Customer Churn Analysis (BCG Forage)</h3>
-<p>Engineered a random forest model achieving 50% recall for churn prediction; analyzed client data using Python (Pandas, NumPy); created visual dashboards and authored an executive summary with strategic recommendations.</p>
-<p><span class="project-tag">Random Forest</span> <span class="project-tag">Data Visualization</span> <span class="project-tag">Pandas</span></p>
-</section>
-<section id="retail-data-analytics-quantium-forage" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="retail-data-analytics-quantium-forage">Retail Data Analytics (Quantium Forage)</h3>
-<p>Analyzed transaction datasets to generate customer insights and commercial recommendations; identified benchmark stores for uplift testing on new layouts; delivered strategic reports for the Category Manager.</p>
-<p><span class="project-tag">Data Analysis</span> <span class="project-tag">Business Intelligence</span> <span class="project-tag">SQL</span></p>
-</section>
-<section id="customer-segmentation-in-the-us" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="customer-segmentation-in-the-us">Customer Segmentation in the US</h3>
-<p>Implemented k-means clustering to segment US consumers; visualized high-dimensional data using PCA and developed an interactive dashboard with Plotly Dash.</p>
-<p><span class="project-tag">K-Means</span> <span class="project-tag">PCA</span> <span class="project-tag">Plotly Dash</span></p>
-</section>
-<section id="ab-testing-at-worldquant-university" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="ab-testing-at-worldquant-university">A/B Testing at WorldQuant University</h3>
-<p>Conducted chi-square tests to evaluate the impact of marketing emails on enrollment; built custom Python ETL classes and deployed an interactive app using a three-tier architecture.</p>
-<p><span class="project-tag">A/B Testing</span> <span class="project-tag">Chi-Square</span> <span class="project-tag">ETL</span></p>
-</section>
-<section id="business-data-visualization-tcs-forage" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="business-data-visualization-tcs-forage">Business Data Visualization (TCS Forage)</h3>
-<p>Designed executive-level data visualizations for Tata Consultancy Services; crafted client-focused questions for senior leadership meetings; translated analytical findings into clear visuals.</p>
-<p><span class="project-tag">Data Visualization</span> <span class="project-tag">Tableau</span> <span class="project-tag">Business Intelligence</span></p>
-</section>
-<section id="housing-in-mexico" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="housing-in-mexico">Housing in Mexico</h3>
-<p>Analyzed a dataset of 21,000 properties to study the influence of property size and location on real estate prices; performed data cleaning, created visualizations, and examined variable correlations.</p>
-<p><span class="project-tag">EDA</span> <span class="project-tag">Data Cleaning</span> <span class="project-tag">Visualization</span></p>
-</section>
-<section id="apartment-sales-in-buenos-aires" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="apartment-sales-in-buenos-aires">Apartment Sales in Buenos Aires</h3>
-<p>Developed a linear regression model to predict apartment prices in Argentina; built a data pipeline for imputation and encoding, and enhanced model performance by addressing overfitting.</p>
-<p><span class="project-tag">Linear Regression</span> <span class="project-tag">Data Pipeline</span> <span class="project-tag">Scikit-learn</span></p>
-</section>
-<section id="zomato-restaurant-data-analysis" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="zomato-restaurant-data-analysis">Zomato Restaurant Data Analysis</h3>
-<p>Processed raw restaurant data with Python and Excel; performed SQL-based analysis to identify top-rated venues, compare online vs offline ordering trends, and generate strategic insights for Zomato’s growth.</p>
-<p><span class="project-tag">SQL</span> <span class="project-tag">Data Analysis</span> <span class="project-tag">Python</span></p>
-</section>
-</div>
-</section>
-<section id="database-engineering" class="level2">
-<h2 class="anchored" data-anchor-id="database-engineering">Database &amp; Engineering</h2>
-<div class="project-grid">
-<section id="image-similarity-search-engine" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="image-similarity-search-engine">Image Similarity Search Engine</h3>
-<p>Built an end-to-end image similarity pipeline with Python, Milvus, and MySQL; extracted features, indexed vectors, and linked Milvus IDs to filenames to deliver fast vector-based search for similar images.</p>
-<p><span class="project-tag">Milvus</span> <span class="project-tag">MySQL</span> <span class="project-tag">Vector Search</span> <span class="project-tag">Python</span></p>
-</section>
-<section id="little-lemon-restaurant-database-meta-capstone" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="little-lemon-restaurant-database-meta-capstone">Little Lemon Restaurant Database (Meta Capstone)</h3>
-<p>Designed and implemented a normalized relational database with MySQL; developed stored procedures for booking management; integrated Python and Tableau to automate queries and visualize reservation trends.</p>
-<p><span class="project-tag">MySQL</span> <span class="project-tag">Database Design</span> <span class="project-tag">Tableau</span> <span class="project-tag">Stored Procedures</span></p>
-</section>
-<section id="banking-trends-analysis" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="banking-trends-analysis">Banking Trends Analysis</h3>
-<p>Engineered robust data pipelines in Python to clean banking transaction data; authored advanced SQL queries to examine deposits, regional spending, and customer activity; derived actionable insights.</p>
-<p><span class="project-tag">SQL</span> <span class="project-tag">Data Pipeline</span> <span class="project-tag">Python</span></p>
-</section>
-<section id="work-related-fatality-analysis" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="work-related-fatality-analysis">Work-Related Fatality Analysis</h3>
-<p>Engineered Python scripts to clean and transform incident data; automated dataset export to MySQL; authored complex SQL queries to examine fatality trends, state-wise incidents, and high-risk activities.</p>
-<p><span class="project-tag">Python</span> <span class="project-tag">MySQL</span> <span class="project-tag">Data Engineering</span></p>
-</section>
-</div>
-</section>
-<section id="classification-risk-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="classification-risk-assessment">Classification &amp; Risk Assessment</h2>
-<div class="project-grid">
-<section id="bankruptcy-in-poland" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="bankruptcy-in-poland">Bankruptcy in Poland</h3>
-<p>Designed random forest and gradient boosting models to predict company bankruptcy; handled imbalanced datasets through resampling, leveraged Linux command line tools, and balanced precision-recall tradeoffs.</p>
-<p><span class="project-tag">Random Forest</span> <span class="project-tag">Gradient Boosting</span> <span class="project-tag">Imbalanced Data</span> <span class="project-tag">Linux</span></p>
-</section>
-<section id="earthquake-damage-in-nepal" class="level3 project-card">
-<h3 class="anchored" data-anchor-id="earthquake-damage-in-nepal">Earthquake Damage in Nepal</h3>
-<p>Created logistic regression and decision tree models to assess building damage risks from earthquakes; managed data extraction from SQLite and investigated biases that could cause model discrimination.</p>
-<p><span class="project-tag">Logistic Regression</span> <span class="project-tag">Decision Trees</span> <span class="project-tag">SQLite</span> <span class="project-tag">Bias Analysis</span></p>
-</section>
-</div>
+<section id="data-sql-business-analytics" class="level3">
+<h3 class="anchored" data-anchor-id="data-sql-business-analytics">Data, SQL &amp; Business Analytics</h3>
+<ul>
+<li><strong>Little Lemon Restaurant Database</strong> — relational database design, stored procedures, Python, and Tableau</li>
+<li><strong>Banking Trends Analysis</strong> — Python and SQL data-analysis workflows</li>
+<li><strong>Work-Related Fatality Analysis</strong> — Python-to-MySQL data pipeline and SQL analysis</li>
+<li><strong>Zomato Restaurant Data Analysis</strong> — Python, Excel, and SQL analysis</li>
+<li><strong>BCG, Quantium, and TCS simulations</strong> — earlier business/data-analysis exercises</li>
+</ul>
+<p>The full repository history remains available on <a href="https://github.com/Harper2123">GitHub</a>.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

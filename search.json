@@ -1,114 +1,93 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "AI Engineer · Data Scientist · Builder\n\n\n\nI’m an Associate AI Engineer at Griphic, where I work on end-to-end development for CAD retrieval applications and Intelligent Digital Twin builders for predictive analytics.\nI hold an M.Tech. in Data Science from the Defence Institute of Advanced Technology, Pune (CGPA 9.0), and a B.Tech. in Computer Science and Engineering from Echelon Institute of Technology (CGPA 9.021, First Division with Honours).\nMy work spans machine learning, deep learning, computer vision, NLP, and generative AI. I’m passionate about building scalable, ethical, and impactful AI systems that solve real-world problems.\n\n\n\nProfile Picture\n\n\n\nAI + ML Engineering Computer Vision NLP and Generative AI Data and MLOps Workflows\n\n\n\n\nEmail LinkedIn GitHub Resume"
-  },
-  {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Home",
-    "section": "What I Do",
-    "text": "What I Do\n\n\nMachine Learning & AI\nBuilding intelligent systems that learn from data, from traditional ML models to cutting-edge deep learning architectures.\n\n\nComputer Vision\nDeveloping models for image classification, object detection, and image generation using CNNs, GANs, and diffusion models.\n\n\nNLP & Text Analytics\nCreating pipelines for sentiment analysis, text processing, and building applications powered by large language models.\n\n\nData Engineering\nDesigning robust data pipelines, working with databases (SQL & NoSQL), and transforming raw data into actionable insights."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "I’ve worked on a diverse range of projects spanning computer vision, NLP, time series analysis, and data analytics. Here are my selected projects organized by category:"
-  },
-  {
-    "objectID": "projects.html#computer-vision-image-processing",
-    "href": "projects.html#computer-vision-image-processing",
-    "title": "Projects",
-    "section": "Computer Vision & Image Processing",
-    "text": "Computer Vision & Image Processing\n\n\nWildlife Conservation in Côte d’Ivoire\nDeveloped advanced neural network models to classify animal species from camera trap images, supporting scientists in tracking wildlife populations through an image classification competition.\nCNN Transfer Learning Image Classification\n\n\nCrop Disease Detection in Uganda\nBuilt and trained a convolutional neural network (CNN) to classify crop disease images into five categories; improved model accuracy by leveraging transfer learning with pre-trained models and training optimizations using Callbacks.\nCNN Transfer Learning Keras\n\n\nTraffic Monitoring in Bangladesh\nProcessed real-time traffic video feeds from Dhaka to detect and label objects such as vehicles and pedestrians; extended pre-trained object detection models to handle custom traffic analysis tasks.\nObject Detection Computer Vision Video Processing\n\n\nMedical Data Generation in Spain\nDesigned and trained Generative Adversarial Networks (GANs) to synthesize medical images like X-rays and MRIs; deployed an interactive Streamlit web app and managed version control using Git and GitHub.\nGANs Streamlit Medical Imaging\n\n\nCelebrity Sightings in India\nImplemented face detection and recognition using MTCNN and Inception-ResNet; built a Flask application to perform face recognition on uploaded images, demonstrated on video footage of boxer Mary Kom.\nFace Recognition MTCNN Flask\n\n\nUnderwater Image Enhancement\nDeveloped a Physics-Informed Diffusion-Based Framework for enhancing underwater images in high turbidity conditions, combining deep learning with physical modelling for marine imaging applications.\nDiffusion Models Physics-Informed ML Computer Vision"
-  },
-  {
-    "objectID": "projects.html#nlp-generative-ai",
-    "href": "projects.html#nlp-generative-ai",
-    "title": "Projects",
-    "section": "NLP & Generative AI",
-    "text": "NLP & Generative AI\n\n\nLive Twitter Sentiment Analysis\nDeveloped an interactive Streamlit tool to stream live tweets via Tweepy; implemented NLP sentiment pipelines using TextBlob; produced real-time sentiment dashboards and WordClouds to interpret public opinion trends.\nNLP Tweepy Streamlit TextBlob\n\n\nSocial Media Meme Generator\nApplied stable diffusion models to develop a meme generator for social media campaigns; deployed the solution as an interactive Streamlit application.\nStable Diffusion Generative AI Streamlit"
-  },
-  {
-    "objectID": "projects.html#time-series-finance",
-    "href": "projects.html#time-series-finance",
-    "title": "Projects",
-    "section": "Time Series & Finance",
-    "text": "Time Series & Finance\n\n\nAir Quality in Nairobi\nBuilt an ARMA time-series model to forecast particulate matter levels in Kenya; extracted data from MongoDB using PyMongo and improved prediction accuracy through hyperparameter tuning.\nARMA Time Series MongoDB\n\n\nVolatility Forecasting in India\nDeveloped a GARCH time-series model to predict asset volatility; retrieved stock data via an API, stored it in SQLite, and built a custom API to deliver predictions.\nGARCH Time Series API Development SQLite\n\n\nNBA MVP Predictor\nAutomated web scraping of player, team, and MVP data from Basketball Reference; cleaned and merged historical stats (1991–2022); built predictive models to forecast MVP selections based on key performance metrics.\nWeb Scraping Predictive Modeling Pandas"
-  },
-  {
-    "objectID": "projects.html#data-analytics-visualization",
-    "href": "projects.html#data-analytics-visualization",
-    "title": "Projects",
-    "section": "Data Analytics & Visualization",
-    "text": "Data Analytics & Visualization\n\n\nCustomer Churn Analysis (BCG Forage)\nEngineered a random forest model achieving 50% recall for churn prediction; analyzed client data using Python (Pandas, NumPy); created visual dashboards and authored an executive summary with strategic recommendations.\nRandom Forest Data Visualization Pandas\n\n\nRetail Data Analytics (Quantium Forage)\nAnalyzed transaction datasets to generate customer insights and commercial recommendations; identified benchmark stores for uplift testing on new layouts; delivered strategic reports for the Category Manager.\nData Analysis Business Intelligence SQL\n\n\nCustomer Segmentation in the US\nImplemented k-means clustering to segment US consumers; visualized high-dimensional data using PCA and developed an interactive dashboard with Plotly Dash.\nK-Means PCA Plotly Dash\n\n\nA/B Testing at WorldQuant University\nConducted chi-square tests to evaluate the impact of marketing emails on enrollment; built custom Python ETL classes and deployed an interactive app using a three-tier architecture.\nA/B Testing Chi-Square ETL\n\n\nBusiness Data Visualization (TCS Forage)\nDesigned executive-level data visualizations for Tata Consultancy Services; crafted client-focused questions for senior leadership meetings; translated analytical findings into clear visuals.\nData Visualization Tableau Business Intelligence\n\n\nHousing in Mexico\nAnalyzed a dataset of 21,000 properties to study the influence of property size and location on real estate prices; performed data cleaning, created visualizations, and examined variable correlations.\nEDA Data Cleaning Visualization\n\n\nApartment Sales in Buenos Aires\nDeveloped a linear regression model to predict apartment prices in Argentina; built a data pipeline for imputation and encoding, and enhanced model performance by addressing overfitting.\nLinear Regression Data Pipeline Scikit-learn\n\n\nZomato Restaurant Data Analysis\nProcessed raw restaurant data with Python and Excel; performed SQL-based analysis to identify top-rated venues, compare online vs offline ordering trends, and generate strategic insights for Zomato’s growth.\nSQL Data Analysis Python"
-  },
-  {
-    "objectID": "projects.html#database-engineering",
-    "href": "projects.html#database-engineering",
-    "title": "Projects",
-    "section": "Database & Engineering",
-    "text": "Database & Engineering\n\n\nImage Similarity Search Engine\nBuilt an end-to-end image similarity pipeline with Python, Milvus, and MySQL; extracted features, indexed vectors, and linked Milvus IDs to filenames to deliver fast vector-based search for similar images.\nMilvus MySQL Vector Search Python\n\n\nLittle Lemon Restaurant Database (Meta Capstone)\nDesigned and implemented a normalized relational database with MySQL; developed stored procedures for booking management; integrated Python and Tableau to automate queries and visualize reservation trends.\nMySQL Database Design Tableau Stored Procedures\n\n\nBanking Trends Analysis\nEngineered robust data pipelines in Python to clean banking transaction data; authored advanced SQL queries to examine deposits, regional spending, and customer activity; derived actionable insights.\nSQL Data Pipeline Python\n\n\nWork-Related Fatality Analysis\nEngineered Python scripts to clean and transform incident data; automated dataset export to MySQL; authored complex SQL queries to examine fatality trends, state-wise incidents, and high-risk activities.\nPython MySQL Data Engineering"
-  },
-  {
-    "objectID": "projects.html#classification-risk-assessment",
-    "href": "projects.html#classification-risk-assessment",
-    "title": "Projects",
-    "section": "Classification & Risk Assessment",
-    "text": "Classification & Risk Assessment\n\n\nBankruptcy in Poland\nDesigned random forest and gradient boosting models to predict company bankruptcy; handled imbalanced datasets through resampling, leveraged Linux command line tools, and balanced precision-recall tradeoffs.\nRandom Forest Gradient Boosting Imbalanced Data Linux\n\n\nEarthquake Damage in Nepal\nCreated logistic regression and decision tree models to assess building damage risks from earthquakes; managed data extraction from SQLite and investigated biases that could cause model discrimination.\nLogistic Regression Decision Trees SQLite Bias Analysis"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a Data Science professional passionate about building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. With a strong foundation in Computer Science (B.Tech.) and specialized expertise in Data Science (M.Tech.), I bring a blend of research, engineering, and practical problem-solving skills to every project."
+    "text": "I am an AI Engineer and emerging researcher with a background in applied machine learning, computer vision, retrieval systems, and research. I currently work at Griphic on applied AI systems, while continuing to develop my research interests through experiments, paper reproduction, and technical writing."
+  },
+  {
+    "objectID": "about.html#current-focus",
+    "href": "about.html#current-focus",
+    "title": "About",
+    "section": "Current Focus",
+    "text": "Current Focus\nMy strongest technical thread combines computer vision, retrieval, and representation learning. I am currently exploring visual and geometric retrieval, robust perception, and multimodal or vision-language representations as research directions rather than treating them as established specializations.\nSome of my strongest current professional work is confidential, so I describe it publicly only at a level that respects those boundaries. I prefer public claims that can be supported by code, experiments, publications, or other inspectable evidence."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\n\nM.Tech. in Data Science\nDefence Institute of Advanced Technology, Pune\nAugust 2025\n\nCGPA: 9.0\nRelevant Coursework: Deep Learning for Computer Vision, Advanced Optimization, Advanced Statistics, Big Data Analytics\nThesis: A Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions\n\n\n\nB.Tech. in Computer Science and Engineering\nEchelon Institute of Technology, Faridabad\nJuly 2023\n\nCGPA: 9.021 (First Division with Honours)\nRelevant Coursework: Data Structures, Algorithms, OS, DBMS, Compiler Design, Computer Networks\nMOOCs: Deep Learning, AI: Knowledge Representation and Reasoning, Introduction to Internet of Things, Machine Intelligence and Brain Research"
+    "text": "Education\n\n\nM.Tech. in Data Science\nDefence Institute of Advanced Technology, Pune\nAugust 2025\n\nCGPA: 9.0\nRelevant Coursework: Deep Learning for Computer Vision, Advanced Optimization, Advanced Statistics, Big Data Analytics\nThesis: A Physics-Informed Diffusion-Based Framework for Enhancing Underwater Images in High Turbidity Conditions\n\n\n\nB.Tech. in Computer Science and Engineering\nEchelon Institute of Technology, Faridabad\nJuly 2023\n\nCGPA: 9.021 (First Division with Honours)\nRelevant Coursework: Data Structures, Algorithms, OS, DBMS, Compiler Design, Computer Networks"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "About",
     "section": "Experience",
-    "text": "Experience\n\n\nAssociate AI Engineer 1\nGriphic\n22 October 2025 – Present\n\nEnd-to-end development for a CAD retrieval application that retrieves similar CAD designs from a library based on a query sketch and a set of tags\nDevelopment of a Digital Twin Builder capable of designing and deploying Intelligent Digital Twins for predictive analytics and control\n\n\n\nResearch Intern\nABB Corporate Research Center\n6 January 2025 – 27 June 2025\n\nDesigned and implemented frameworks for efficient machine learning in resource-constrained environments using TensorFlow and Keras\nImproved collaborative learning techniques in federated settings with emphasis on data privacy and computational efficiency\n\n\n\nIntern\nFrugalX\n10 January 2023 – 10 May 2023\n\nDeveloped an image similarity search framework leveraging artificial neural networks and Milvus to significantly improve accuracy and efficiency of data retrieval processes\nIntegrated MySQL databases to enable fast and reliable mapping and retrieval of filenames and IDs"
+    "text": "Experience\n\n\nAssociate AI Engineer 1\nGriphic\n22 October 2025 – Present\n\nContributing to end-to-end development of an AI-powered CAD retrieval application that retrieves similar designs using query sketches and associated metadata\nBuilding ML workflows involving feature extraction, similarity search, data preprocessing, and retrieval evaluation\nContributing to a Digital Twin Builder for predictive analytics, monitoring, and control\n\n\n\nResearch Intern\nABB Corporate Research Center\n6 January 2025 – 27 June 2025\n\nDesigned and implemented machine-learning frameworks for efficient learning in resource-constrained environments\nWorked on collaborative learning techniques in federated settings with emphasis on data privacy, computational efficiency, and robustness\nConducted experiments, analyzed model behavior, and documented findings for research-driven AI development\n\n\n\nIntern\nFrugalX\n10 January 2023 – 10 May 2023\n\nDeveloped an image-similarity retrieval framework using learned visual features, Milvus, and MySQL\nBuilt the workflow from feature extraction and vector indexing through database mapping and retrieval"
   },
   {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
+    "objectID": "about.html#publication",
+    "href": "about.html#publication",
     "title": "About",
-    "section": "Publications",
-    "text": "Publications\n\nPerformance of SOTA Underwater Image Enhancement Models on Underwater Images with High Turbidity\nA. Kumar and B. Ramkrishna\nProceedings of the 2025 National Conference on Communications (NCC), New Delhi, India, pp. 1-6, 2025\nDOI: 10.1109/NCC63735.2025.10983784"
+    "section": "Publication",
+    "text": "Publication\n\nPerformance of SOTA Underwater Image Enhancement Models on Underwater Images with High Turbidity\nA. Kumar and B. Ramkrishna\nProceedings of the 2025 National Conference on Communications (NCC), New Delhi, India, pp. 1–6, 2025\nDOI: 10.1109/NCC63735.2025.10983784"
   },
   {
-    "objectID": "about.html#certifications",
-    "href": "about.html#certifications",
+    "objectID": "about.html#selected-certifications",
+    "href": "about.html#selected-certifications",
     "title": "About",
-    "section": "Certifications",
-    "text": "Certifications\n\n\nApplied AI Lab: Deep Learning for Computer Vision — WorldQuant University\nSQL Associate — DataCamp\nData Scientist Career Track — 365 Data Science\nBCG Data Science Job Simulation — Forage\nQuantium Data Analytics Job Simulation — Forage\nApplied Data Science Lab — WorldQuant University\nGoogle Data Analytics Professional Certificate — Coursera\nMeta Database Engineer Professional Certificate — Coursera\nAccounting Data Analytics by University of Illinois Urbana-Champaign — Coursera\nData Analysis with Python — freeCodeCamp\nSQL Advanced — HackerRank"
+    "section": "Selected Certifications",
+    "text": "Selected Certifications\n\n\nApplied AI Lab: Deep Learning for Computer Vision — WorldQuant University\nApplied Data Science Lab — WorldQuant University\nSQL Associate — DataCamp"
   },
   {
     "objectID": "about.html#technical-skills",
     "href": "about.html#technical-skills",
     "title": "About",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\nLanguages\n\nPython SQL C Java\n\n\n\nLibraries & Frameworks\n\nTensorFlow Keras PyTorch Scikit-learn NumPy Pandas Matplotlib Seaborn Plotly Dash TextBlob WordCloud Tweepy Milvus Flower SciPy Statsmodels\n\n\n\nConcepts\n\nMachine Learning Deep Learning NLP Computer Vision Time Series Forecasting Clustering Generative AI Federated Learning Statistical Testing A/B Testing Feature Engineering EDA Vector Similarity Search Data Cleaning Data Visualization\n\n\n\nTools & Platforms\n\nMySQL SQLite MongoDB Tableau Streamlit Docker Jupyter Notebook Git GitHub Linux CLI API Integration"
+    "text": "Technical Skills\n\nLanguages\n\nPython SQL\n\n\n\nML & Research\n\nPyTorch TensorFlow Keras Scikit-learn NumPy Pandas SciPy Statsmodels Matplotlib\n\n\n\nSystems & Data\n\nMilvus MySQL SQLite MongoDB Git GitHub Linux CLI\n\n\n\nAreas\n\nMachine Learning Deep Learning Computer Vision Vector Similarity Search Federated Learning Generative / Diffusion Models Time Series Forecasting Statistical Testing"
   },
   {
     "objectID": "about.html#achievements",
     "href": "about.html#achievements",
     "title": "About",
     "section": "Achievements",
-    "text": "Achievements\n\nQualified GATE 2023 (CS) with score of 513\nReceived Director’s Award at Echelon Institute of Technology\n\n\nLet’s connect to explore how data and AI can create meaningful change.\n📧 Email · 🔗 LinkedIn · 💻 GitHub · 📄 Resume"
+    "text": "Achievements\n\nQualified GATE 2023 (CS) with score of 513\nReceived Director’s Award at Echelon Institute of Technology\n\n\n📧 Email · 🔗 LinkedIn · 💻 GitHub · ✍️ Medium · 𝕏 X · 📄 Resume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page prioritizes the work that best reflects my current engineering and research direction. Earlier coursework and learning projects are preserved more compactly below rather than presented at equal weight with current evidence."
+  },
+  {
+    "objectID": "projects.html#selected-work",
+    "href": "projects.html#selected-work",
+    "title": "Projects",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\nPhysics-Informed Underwater Image Enhancement\nMy M.Tech. thesis investigated a physics-informed diffusion framework for enhancing underwater images under high-turbidity conditions. It grew from earlier work evaluating state-of-the-art underwater image enhancement models under high turbidity, which was published at NCC 2025.\nRelated NCC 2025 publication · Thesis-focused technical article on Medium\nComputer Vision Diffusion Models Physics-Informed ML Research\n\n\nImage Similarity Search\nBuilt during my FrugalX internship, this project implements an end-to-end visual retrieval workflow using learned image features, Milvus for vector indexing and similarity search, and MySQL for mapping vector IDs back to image records.\nView the repository on GitHub\nVisual Retrieval Milvus MySQL Python\n\n\nWQU Applied AI Lab\nA consolidated body of six capstone projects covering computer vision and generative-AI problems, including image classification, object detection, face recognition, and GAN-based image generation. I keep this as evidence of breadth and earlier applied learning rather than as a single flagship project.\nView the repository on GitHub\nComputer Vision Deep Learning Applied ML"
+  },
+  {
+    "objectID": "projects.html#earlier-learning-project-history",
+    "href": "projects.html#earlier-learning-project-history",
+    "title": "Projects",
+    "section": "Earlier Learning & Project History",
+    "text": "Earlier Learning & Project History\nThe projects below reflect earlier coursework, capstones, simulations, and exploratory work. They remain part of my learning history, but they are intentionally not foregrounded as current flagship work.\n\nComputer Vision & Generative AI\n\nWildlife Conservation in Côte d’Ivoire — image classification for camera-trap wildlife data\nCrop Disease Detection in Uganda — transfer learning for crop-disease classification\nTraffic Monitoring in Bangladesh — object detection on traffic video\nMedical Data Generation in Spain — GAN experiments with an interactive Streamlit application\nCelebrity Sightings in India — face detection and recognition using MTCNN and Inception-ResNet\nSocial Media Meme Generator — Stable Diffusion-based image generation experiment\nLive Twitter Sentiment Analysis — NLP sentiment pipeline and Streamlit dashboard\n\n\n\nTime Series, Statistics & Finance\n\nAir Quality in Nairobi — ARMA time-series forecasting with MongoDB-backed data\nVolatility Forecasting in India — GARCH volatility modelling with API and SQLite integration\nA/B Testing at WorldQuant University — chi-square testing and ETL/application work\nNBA MVP Predictor — historical sports-data scraping and predictive modelling\n\n\n\nClassical ML & Analytics\n\nBankruptcy in Poland — tree-based models for imbalanced classification\nEarthquake Damage in Nepal — logistic regression and decision trees with bias analysis\nCustomer Segmentation in the US — k-means clustering and PCA\nHousing in Mexico — exploratory analysis of real-estate data\nApartment Sales in Buenos Aires — linear regression with preprocessing pipelines\n\n\n\nData, SQL & Business Analytics\n\nLittle Lemon Restaurant Database — relational database design, stored procedures, Python, and Tableau\nBanking Trends Analysis — Python and SQL data-analysis workflows\nWork-Related Fatality Analysis — Python-to-MySQL data pipeline and SQL analysis\nZomato Restaurant Data Analysis — Python, Excel, and SQL analysis\nBCG, Quantium, and TCS simulations — earlier business/data-analysis exercises\n\nThe full repository history remains available on GitHub."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "AI Engineer · Computer Vision · Retrieval · Research\n\n\n\nI’m an Associate AI Engineer at Griphic, where I work on applied AI systems including CAD retrieval and related machine-learning workflows.\nMy strongest work sits at the intersection of applied machine learning, computer vision, retrieval systems, and research. My background also includes research on efficient and collaborative learning at ABB Corporate Research Center and an M.Tech. thesis on physics-informed diffusion for underwater image enhancement.\nI’m currently exploring questions around visual and geometric retrieval, robust perception, and multimodal / vision-language representations through paper-driven experiments and research projects.\n\n\n\nProfile Picture\n\n\n\nAI Engineering Computer Vision Retrieval Systems Research & Experimentation\n\n\n\n\nEmail LinkedIn GitHub Medium X Resume"
+  },
+  {
+    "objectID": "index.html#what-i-work-on",
+    "href": "index.html#what-i-work-on",
+    "title": "Home",
+    "section": "What I Work On",
+    "text": "What I Work On\n\n\nApplied AI Engineering\nBuilding and evaluating machine-learning systems that connect models with real application workflows, with an emphasis on clear system boundaries and defensible results.\n\n\nRetrieval Systems\nWorking with learned representations, vector similarity search, and retrieval pipelines for visual and related search problems.\n\n\nComputer Vision\nExploring visual understanding and image-enhancement problems, including difficult or degraded imaging conditions and representation quality.\n\n\nResearch & Experimentation\nStudying papers through implementation, reproduction, controlled experiments, ablations, failure analysis, and careful interpretation of evidence."
   }
 ]
