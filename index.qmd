@@ -3,23 +3,23 @@ title: "Home"
 ---
 
 ::: hero
-<div class="hero-eyebrow">AI Engineer · Data Scientist · Builder</div>
+<div class="hero-eyebrow">AI Engineer · Computer Vision · Retrieval · Research</div>
 
 # Hi, I'm Ayush Kumar 👋
 
-I'm an **Associate AI Engineer** at **Griphic**, where I work on end-to-end development for CAD retrieval applications and Intelligent Digital Twin builders for predictive analytics.
+I'm an **Associate AI Engineer** at **Griphic**, where I work on applied AI systems including CAD retrieval and related machine-learning workflows.
 
-I hold an **M.Tech. in Data Science** from the Defence Institute of Advanced Technology, Pune (CGPA 9.0), and a **B.Tech. in Computer Science and Engineering** from Echelon Institute of Technology (CGPA 9.021, First Division with Honours).
+My strongest work sits at the intersection of **applied machine learning**, **computer vision**, **retrieval systems**, and **research**. My background also includes research on efficient and collaborative learning at ABB Corporate Research Center and an M.Tech. thesis on physics-informed diffusion for underwater image enhancement.
 
-My work spans **machine learning**, **deep learning**, **computer vision**, **NLP**, and **generative AI**. I'm passionate about building **scalable, ethical, and impactful AI systems** that solve real-world problems.
+I'm currently exploring questions around **visual and geometric retrieval**, **robust perception**, and **multimodal / vision-language representations** through paper-driven experiments and research projects.
 
 ![Profile Picture](images/photo.png){.profile-image}
 
 <div class="hero-metrics">
-  <span>AI + ML Engineering</span>
+  <span>AI Engineering</span>
   <span>Computer Vision</span>
-  <span>NLP and Generative AI</span>
-  <span>Data and MLOps Workflows</span>
+  <span>Retrieval Systems</span>
+  <span>Research & Experimentation</span>
 </div>
 
 ### Connect with Me
@@ -28,37 +28,39 @@ My work spans **machine learning**, **deep learning**, **computer vision**, **NL
   <a href="mailto:akcoolkmr@gmail.com">Email</a>
   <a href="https://www.linkedin.com/in/ayush-kumar-4234b8155/">LinkedIn</a>
   <a href="https://github.com/Harper2123">GitHub</a>
+  <a href="https://medium.com/@akcoolkmr">Medium</a>
+  <a href="https://x.com/ayushk_kmr">X</a>
   <a href="resume/Entire_Resume.pdf">Resume</a>
 </div>
 
 :::
 
-## What I Do
+## What I Work On
 
 ::: project-grid
 
 ::: project-card
-### Machine Learning & AI
+### Applied AI Engineering
 
-Building intelligent systems that learn from data, from traditional ML models to cutting-edge deep learning architectures.
+Building and evaluating machine-learning systems that connect models with real application workflows, with an emphasis on clear system boundaries and defensible results.
+:::
+
+::: project-card
+### Retrieval Systems
+
+Working with learned representations, vector similarity search, and retrieval pipelines for visual and related search problems.
 :::
 
 ::: project-card
 ### Computer Vision
 
-Developing models for image classification, object detection, and image generation using CNNs, GANs, and diffusion models.
+Exploring visual understanding and image-enhancement problems, including difficult or degraded imaging conditions and representation quality.
 :::
 
 ::: project-card
-### NLP & Text Analytics
+### Research & Experimentation
 
-Creating pipelines for sentiment analysis, text processing, and building applications powered by large language models.
-:::
-
-::: project-card
-### Data Engineering
-
-Designing robust data pipelines, working with databases (SQL & NoSQL), and transforming raw data into actionable insights.
+Studying papers through implementation, reproduction, controlled experiments, ablations, failure analysis, and careful interpretation of evidence.
 :::
 
 :::

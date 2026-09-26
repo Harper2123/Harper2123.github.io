@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Ayush Kumar"
-  description: "Portfolio of Ayush Kumar - Associate AI Engineer"
+  description: "Portfolio of Ayush Kumar — AI Engineer working across computer vision, retrieval systems, applied ML, and research."
   navbar:
     left:
       - href: index.qmd
@@ -36,4 +36,4 @@ execute:
   freeze: true
 
 page-footer: |
-  © 2025 Ayush Kumar. Built with [Quarto](https://quarto.org).
+  © 2026 Ayush Kumar. Built with [Quarto](https://quarto.org).
