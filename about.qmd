@@ -3,8 +3,14 @@ title: "About"
 ---
 
 ::: {.page-intro}
-I am a **Data Science professional** passionate about building intelligent, data-driven systems that bridge the gap between theoretical research and real-world applications. With a strong foundation in **Computer Science** (B.Tech.) and specialized expertise in **Data Science** (M.Tech.), I bring a blend of research, engineering, and practical problem-solving skills to every project.
+I am an **AI Engineer and emerging researcher** with a background in applied machine learning, computer vision, retrieval systems, and research. I currently work at **Griphic** on applied AI systems, while continuing to develop my research interests through experiments, paper reproduction, and technical writing.
 :::
+
+## Current Focus
+
+My strongest technical thread combines **computer vision**, **retrieval**, and **representation learning**. I am currently exploring visual and geometric retrieval, robust perception, and multimodal or vision-language representations as research directions rather than treating them as established specializations.
+
+Some of my strongest current professional work is confidential, so I describe it publicly only at a level that respects those boundaries. I prefer public claims that can be supported by code, experiments, publications, or other inspectable evidence.
 
 ## Education
 
@@ -29,7 +35,6 @@ I am a **Data Science professional** passionate about building intelligent, data
 
 - **CGPA:** 9.021 (First Division with Honours)
 - **Relevant Coursework:** Data Structures, Algorithms, OS, DBMS, Compiler Design, Computer Networks
-- **MOOCs:** Deep Learning, AI: Knowledge Representation and Reasoning, Introduction to Internet of Things, Machine Intelligence and Brain Research
 :::
 
 :::
@@ -44,8 +49,9 @@ I am a **Data Science professional** passionate about building intelligent, data
 
 *22 October 2025 – Present*
 
-- End-to-end development for a CAD retrieval application that retrieves similar CAD designs from a library based on a query sketch and a set of tags
-- Development of a Digital Twin Builder capable of designing and deploying Intelligent Digital Twins for predictive analytics and control
+- Contributing to end-to-end development of an AI-powered CAD retrieval application that retrieves similar designs using query sketches and associated metadata
+- Building ML workflows involving feature extraction, similarity search, data preprocessing, and retrieval evaluation
+- Contributing to a Digital Twin Builder for predictive analytics, monitoring, and control
 :::
 
 ::: timeline-item
@@ -54,8 +60,9 @@ I am a **Data Science professional** passionate about building intelligent, data
 
 *6 January 2025 – 27 June 2025*
 
-- Designed and implemented frameworks for efficient machine learning in resource-constrained environments using TensorFlow and Keras
-- Improved collaborative learning techniques in federated settings with emphasis on data privacy and computational efficiency
+- Designed and implemented machine-learning frameworks for efficient learning in resource-constrained environments
+- Worked on collaborative learning techniques in federated settings with emphasis on data privacy, computational efficiency, and robustness
+- Conducted experiments, analyzed model behavior, and documented findings for research-driven AI development
 :::
 
 ::: timeline-item
@@ -64,39 +71,31 @@ I am a **Data Science professional** passionate about building intelligent, data
 
 *10 January 2023 – 10 May 2023*
 
-- Developed an image similarity search framework leveraging artificial neural networks and Milvus to significantly improve accuracy and efficiency of data retrieval processes
-- Integrated MySQL databases to enable fast and reliable mapping and retrieval of filenames and IDs
+- Developed an image-similarity retrieval framework using learned visual features, Milvus, and MySQL
+- Built the workflow from feature extraction and vector indexing through database mapping and retrieval
 :::
 
 :::
 
-## Publications
+## Publication
 
 ::: publication-item
 ### Performance of SOTA Underwater Image Enhancement Models on Underwater Images with High Turbidity
 
 *A. Kumar and B. Ramkrishna*
 
-**Proceedings of the 2025 National Conference on Communications (NCC)**, New Delhi, India, pp. 1-6, 2025
+**Proceedings of the 2025 National Conference on Communications (NCC)**, New Delhi, India, pp. 1–6, 2025
 
 [DOI: 10.1109/NCC63735.2025.10983784](https://doi.org/10.1109/NCC63735.2025.10983784)
 :::
 
-## Certifications
+## Selected Certifications
 
 ::: certification-list
 
 - Applied AI Lab: Deep Learning for Computer Vision — WorldQuant University
-- SQL Associate — DataCamp
-- Data Scientist Career Track — 365 Data Science
-- BCG Data Science Job Simulation — Forage
-- Quantium Data Analytics Job Simulation — Forage
 - Applied Data Science Lab — WorldQuant University
-- Google Data Analytics Professional Certificate — Coursera
-- Meta Database Engineer Professional Certificate — Coursera
-- Accounting Data Analytics by University of Illinois Urbana-Champaign — Coursera
-- Data Analysis with Python — freeCodeCamp
-- SQL Advanced — HackerRank
+- SQL Associate — DataCamp
 
 :::
 
@@ -106,63 +105,42 @@ I am a **Data Science professional** passionate about building intelligent, data
 ::: skills-grid
 <span class="skill-badge">Python</span>
 <span class="skill-badge">SQL</span>
-<span class="skill-badge">C</span>
-<span class="skill-badge">Java</span>
 :::
 
-### Libraries & Frameworks
+### ML & Research
 ::: skills-grid
+<span class="skill-badge">PyTorch</span>
 <span class="skill-badge">TensorFlow</span>
 <span class="skill-badge">Keras</span>
-<span class="skill-badge">PyTorch</span>
 <span class="skill-badge">Scikit-learn</span>
 <span class="skill-badge">NumPy</span>
 <span class="skill-badge">Pandas</span>
-<span class="skill-badge">Matplotlib</span>
-<span class="skill-badge">Seaborn</span>
-<span class="skill-badge">Plotly</span>
-<span class="skill-badge">Dash</span>
-<span class="skill-badge">TextBlob</span>
-<span class="skill-badge">WordCloud</span>
-<span class="skill-badge">Tweepy</span>
-<span class="skill-badge">Milvus</span>
-<span class="skill-badge">Flower</span>
 <span class="skill-badge">SciPy</span>
 <span class="skill-badge">Statsmodels</span>
+<span class="skill-badge">Matplotlib</span>
 :::
 
-### Concepts
+### Systems & Data
 ::: skills-grid
-<span class="skill-badge">Machine Learning</span>
-<span class="skill-badge">Deep Learning</span>
-<span class="skill-badge">NLP</span>
-<span class="skill-badge">Computer Vision</span>
-<span class="skill-badge">Time Series Forecasting</span>
-<span class="skill-badge">Clustering</span>
-<span class="skill-badge">Generative AI</span>
-<span class="skill-badge">Federated Learning</span>
-<span class="skill-badge">Statistical Testing</span>
-<span class="skill-badge">A/B Testing</span>
-<span class="skill-badge">Feature Engineering</span>
-<span class="skill-badge">EDA</span>
-<span class="skill-badge">Vector Similarity Search</span>
-<span class="skill-badge">Data Cleaning</span>
-<span class="skill-badge">Data Visualization</span>
-:::
-
-### Tools & Platforms
-::: skills-grid
+<span class="skill-badge">Milvus</span>
 <span class="skill-badge">MySQL</span>
 <span class="skill-badge">SQLite</span>
 <span class="skill-badge">MongoDB</span>
-<span class="skill-badge">Tableau</span>
-<span class="skill-badge">Streamlit</span>
-<span class="skill-badge">Docker</span>
-<span class="skill-badge">Jupyter Notebook</span>
 <span class="skill-badge">Git</span>
 <span class="skill-badge">GitHub</span>
 <span class="skill-badge">Linux CLI</span>
-<span class="skill-badge">API Integration</span>
+:::
+
+### Areas
+::: skills-grid
+<span class="skill-badge">Machine Learning</span>
+<span class="skill-badge">Deep Learning</span>
+<span class="skill-badge">Computer Vision</span>
+<span class="skill-badge">Vector Similarity Search</span>
+<span class="skill-badge">Federated Learning</span>
+<span class="skill-badge">Generative / Diffusion Models</span>
+<span class="skill-badge">Time Series Forecasting</span>
+<span class="skill-badge">Statistical Testing</span>
 :::
 
 ## Achievements
@@ -172,6 +150,4 @@ I am a **Data Science professional** passionate about building intelligent, data
 
 ---
 
-*Let's connect to explore how data and AI can create meaningful change.*
-
-[📧 Email](mailto:akcoolkmr@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/ayush-kumar-4234b8155/) · [💻 GitHub](https://github.com/Harper2123) · [📄 Resume](resume/Entire_Resume.pdf)
+[📧 Email](mailto:akcoolkmr@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/ayush-kumar-4234b8155/) · [💻 GitHub](https://github.com/Harper2123) · [✍️ Medium](https://medium.com/@akcoolkmr) · [𝕏 X](https://x.com/ayushk_kmr) · [📄 Resume](resume/Entire_Resume.pdf)
